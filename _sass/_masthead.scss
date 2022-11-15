@@ -2,11 +2,12 @@
   box-sizing: border-box;
   position: relative;
   text-align: center;
-  color: whitesmoke;
+  color: $for-dark-background;
 }
 
 .site-masthead h1 {
   font-size: 1.5em;
+  margin:3em;
   margin-bottom: 0;
   margin-top: 1em;
   padding: 0 2rem;
