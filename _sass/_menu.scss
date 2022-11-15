@@ -1,7 +1,6 @@
 .site-navigation {
   margin-top: 2rem;
   padding: 0 1rem;
-  color:whitesmoke;
   &:hover,
   &:focus-within {
     a {
@@ -30,6 +29,7 @@
 .site-navigation a {
   display: block;
   padding: .25em .5em;
+  color: whitesmoke;
   text-decoration: none;
   transition: opacity .125s ease-in-out;
   &:hover,
