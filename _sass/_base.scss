@@ -57,7 +57,7 @@ a {
 }
 
 a:focus {
-  outline: 1px dashed $text-color;
+  
 }
 
 blockquote {
@@ -140,6 +140,7 @@ figcaption {
   margin: 0 auto 2em;
   padding: 0 2em;
   text-align: center;
+  display:none;
 }
 
 .skip-navigation {
