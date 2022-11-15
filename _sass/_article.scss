@@ -1,10 +1,10 @@
 .post {
-  background: #f9f9f1;
+  background: $for-dark-background;
   margin: 2em auto;
   max-width: 60rem;
   padding: 2em 0;
   box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
-  opacity:.95;
+  opacity:.9;
 }
 
 .post > * {
