@@ -58,14 +58,15 @@ a {
 
 a:focus {
   color: $muted-text-color;
-  background: transparent;
+  background: $brand-color;
 }
 
 blockquote {
+  font-style: italic;
   margin: 2em auto;
   opacity: .8;
   > * {
-    padding: 0 3em;
+    padding: 0;
   }
 }
 
