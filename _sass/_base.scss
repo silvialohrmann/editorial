@@ -118,7 +118,11 @@ figcaption {
   max-width: 24em;
   margin: auto;
   padding: 4em 1em;
-  color: whitesmoke;
+  color: $for-dark-background;
+}
+
+#main {
+  color: $for-dark-background;
 }
 
 .content-title {
