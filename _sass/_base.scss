@@ -120,7 +120,7 @@ figcaption {
   color: $for-dark-background;
 }
 
-#main ul.home li{
+#main > ul, #main > div{
   color: $for-dark-background;
 }
 
