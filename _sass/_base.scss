@@ -58,7 +58,10 @@ a {
 
 a:focus {
   color: $muted-text-color;
-  background: $brand-color;
+}
+
+.a {
+	-webkit-tap-highlight-color:$brand-color;
 }
 
 blockquote {
