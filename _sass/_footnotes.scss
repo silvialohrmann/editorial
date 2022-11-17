@@ -2,9 +2,10 @@
   display: inline;
   font-size: .75em;
   font-weight: 400;
-  padding: 0 .75em;
+  padding: 0;
   text-decoration: none;
   margin: 0;
+  top: -0.5em;
   &:hover,
   &:focus {
     background: $muted-text-color;
