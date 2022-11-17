@@ -2,3 +2,13 @@
 layout: categorypage
 tag: Imaginable
 ---
+
+{% capture categories %}
+  {% for tag in site.categories %}
+    {{ category[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedcategories = categories | split:' ' | sort %}
+{% for tag in sortedcategories %}
+    <a href="/categories/{{ tag }}/">{{ category }}</a><br>
+{% endfor %}
