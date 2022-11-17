@@ -1,9 +1,10 @@
 $brand-color:         #171f22;
-$highlight:           lighten($brand-color, 35%);
+$highlight:           lighten(#fdc300, 35%);
 $text-color:          #0b0404;
 $for-dark-background: #f5f5f5;
-$muted-text-color:    #fdc300;
+$striking-color:      #fdc300;
 $font-family:         "PT Serif", serif;
+$muted-text-color:    #1a8a96;
 
 $on-bigphone:         375px;
 $on-tablet:           768px;
