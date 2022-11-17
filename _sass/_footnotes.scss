@@ -1,7 +1,4 @@
 .footnote {
-  border: 1px solid $muted-text-color;
-  border-radius: 1em;
-  color: whitesmoke;
   display: inline;
   font-size: .75em;
   font-weight: 700;
@@ -10,19 +7,18 @@
   margin: 0 .25em;
   &:hover,
   &:focus {
-    background: $brand-color;
-    border-color: $brand-color;
+    background: $muted-text-color;
+    border-color: $muted-text-color;
   }
 }
 
 .footnotes::before {
   content: '';
-  @include divider;
-  margin: 4em auto;
+  margin: 3em auto;
 }
 
 .footnotes {
-  margin-bottom: 4em;
+  margin-bottom: 3em;
 }
 
 .footnotes li {
