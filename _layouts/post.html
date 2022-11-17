@@ -37,7 +37,7 @@ layout: default
   {% endfor %}
       </span>
     </div>
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Last edited on {{ page.date | date: "%B %-d, %Y" }}</time>
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: Last edited on "%B %-d, %Y" }}</time>
   </div>
 
   {% if site.disqus.shortname %}
