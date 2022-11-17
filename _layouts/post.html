@@ -24,6 +24,8 @@ layout: default
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
+</div>
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
     <div class="post-categories">
       <span> In
   {% if post %}
@@ -36,8 +38,6 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
      </span>
-</div>
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
 
   {% if site.disqus.shortname %}
