@@ -2,10 +2,9 @@
   display: inline;
   font-size: .75em;
   font-weight: 400;
-  padding: 0;
+  padding: 0 0 0 .75em;
   text-decoration: none;
   margin: 0;
-  top: -0.5em;
   &:hover,
   &:focus {
     background: $muted-text-color;
@@ -15,11 +14,11 @@
 
 .footnotes::before {
   content: '';
-  margin: 3em auto;
+  margin: 5em auto;
 }
 
 .footnotes {
-  margin-bottom: 5em;
+  margin-bottom: 3em;
 }
 
 .footnotes li {
