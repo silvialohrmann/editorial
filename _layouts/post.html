@@ -21,8 +21,11 @@ layout: default
   </div>
 
   <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
     <div class="post-categories">
-      <span> in
+      <span> In
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -34,9 +37,6 @@ layout: default
   {% endfor %}
      </span>
 </div>
-    {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
-    {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
 
