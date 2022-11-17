@@ -15,8 +15,12 @@ layout: default
       {{ page.title }}
     </h1>
   {% endif %}
-
-<div class="post-categories">
+  
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  
+  <div class="post-categories">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -27,10 +31,6 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
-  
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
 
   <div class="post-meta">
     {% if page.author %}
