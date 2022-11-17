@@ -2,7 +2,7 @@
 title: ""
 layout: post
 author: "Pat Dryburgh"
-categories: Intro
+categories: Published in *Intro*
 ---
 
 Not all posts need a title.
