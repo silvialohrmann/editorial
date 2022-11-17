@@ -22,6 +22,7 @@ layout: default
 
   <div class="post-meta">
     <div class="post-categories">
+      <span> in
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -31,6 +32,7 @@ layout: default
   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+     </span>
 </div>
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
