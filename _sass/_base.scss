@@ -58,10 +58,15 @@ a {
 
 a:focus {
   color: $muted-text-color;
+  background: transparent;
+}
+a:hover {
+  color: $brand-color;
+  background: transparent;
 }
 
 .a {
-	-webkit-tap-highlight-color:$brand-color;
+-webkit-tap-highlight-color:transparent;
 }
 
 blockquote {
