@@ -1,14 +1,14 @@
 .footnote {
+  color: $muted-text-color;
   display: inline;
   font-size: .75em;
   font-weight: 400;
-  padding: 0 0 0 .75em;
+  padding: 0 0 0 .3em;
   text-decoration: none;
   margin: 0;
   &:hover,
   &:focus {
-    background: $muted-text-color;
-    border-color: $muted-text-color;
+    color: $text-color;
   }
 }
 
