@@ -33,6 +33,9 @@
     -webkit-hyphens: auto;
     hyphens: auto;
   word-spacing: normal;
+    @media (min-width: $on-tablet) {
+    text-align: left;
+  }
 }
 
 .post p:first-of-type,
