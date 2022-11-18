@@ -8,15 +8,15 @@ layout: default
   {% include back-link.html %}
 {% endif %}
 
-<article class="page h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+<article class="post page h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
   {% if page.title != "" %}
-    <h1 class="post-title divided p-name" itemprop="name headline">
+    <h1 class="post-title page-title divided p-name" itemprop="name headline">
       {{ page.title }}
     </h1>
   {% endif %}
   
-  <div class="page-content e-content" itemprop="articleBody">
+  <div class="post-content page-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
@@ -45,3 +45,4 @@ layout: default
   {% endif %}
 
 </article>
+Footer
