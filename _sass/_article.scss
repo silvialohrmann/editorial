@@ -33,7 +33,7 @@
     -webkit-hyphens: auto;
     hyphens: auto;
   word-spacing: normal;
-    @media (min-width: $on-tablet) {
+    @media (max-width: $on-tablet) {
     text-align: left;
   }
 }
