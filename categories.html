@@ -14,11 +14,11 @@ title: Categories
 
     <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
+   <ul class="post-list">
     {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h1 class="post-link__title"><a href="{{ site.baseurl }}{{ post.url }}" class="post-link">{{post.title}}</a></h1>
-    </article>
+    {% include post-list-item.html %}
     {% endfor %}
+   </ul>
   </div>
 {% endfor %}
 </div>
