@@ -1,7 +1,6 @@
 ---
 title: The Adventure of the Priory School
-author: Arthur Conan Doyle
-category: Microstories
+category: Imaginable
 layout: post
 ---
 
