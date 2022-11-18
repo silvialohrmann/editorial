@@ -138,8 +138,11 @@ figcaption {
 .home {
   max-width: 24em;
   margin: auto;
-  padding: 3em 1em;
+  padding: 4em 1em;
   color: $for-dark-background;
+      @media (max-width: $on-bigphone) {
+    padding: 3em 1em;
+  }
 }
 
 #main .post-link, #main .pagination-next, #main .pagination-previous {
