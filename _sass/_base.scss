@@ -23,10 +23,10 @@ h3 {
   text-align: center;
 }
 
-#archives > div:nth-child(1) > h3 {
+#archives > h3 {
   font-size: 1.2em;
   margin: 0;
-  text-align: right;
+  text-align: left;
 }
 
 h4 {
@@ -36,11 +36,11 @@ h4 {
   text-align: center;
 }
 
-#archives > div:nth-child(1) > article > h4 {
+#archives > article > h4 {
   font-size: 1em;
   font-style: normal;
   margin: 0;
-  text-align: right;
+  text-align: left;
 }
 
 h5 {
@@ -57,7 +57,7 @@ h6 {
   text-align: center;
 }
 
-ol {
+#main > div.post-content.e-content > div > ol {
   marging: 0;
 }
 
