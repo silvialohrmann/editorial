@@ -139,6 +139,11 @@ figcaption {
   @include divider;
 }
 
+.divided-post::after {
+  content: "";
+  @include divider-post;
+}
+
 .home {
   max-width: 24em;
   margin: auto;
