@@ -23,7 +23,7 @@
 .post p {
   text-align: justify;
   text-indent: 1.5em;
-  text-justify: inter-word;
+  text-justify: inter-character;
     overflow-wrap: break-word;
     word-wrap: break-word;
     -ms-word-break: break-all;
@@ -32,6 +32,7 @@
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+  word-spacing: normal;
 }
 
 .post p:first-of-type,
