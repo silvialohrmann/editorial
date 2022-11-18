@@ -23,7 +23,7 @@ h3 {
   text-align: center;
 }
 
-.category-head h3 {
+#archives > div:nth-child(1) > h3 {
   font-size: 1.2em;
   margin: 0;
   text-align: right;
@@ -36,7 +36,7 @@ h4 {
   text-align: center;
 }
 
-.archive-item h4 a {
+#archives > div:nth-child(1) > article > h4 {
   font-size: 1em;
   font-style: normal;
   margin: 0;
@@ -55,6 +55,10 @@ h6 {
   font-style: italic;
   margin: 2.25em auto;
   text-align: center;
+}
+
+ol {
+  marging: 0;
 }
 
 em {
