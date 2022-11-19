@@ -136,7 +136,7 @@ figcaption {
 }
 
 .home {
-  max-width: 16rem;
+  max-width: 24em;
   margin: auto;
   padding: 4em 1em;
   color: $for-dark-background;
@@ -144,6 +144,10 @@ figcaption {
     padding: 3em 1em;
   }
 }
+
+#main > ul {
+  max-width: 18em;
+  }
 
 #main .post-link, #main .pagination-next, #main .pagination-previous {
   color: $for-dark-background;
