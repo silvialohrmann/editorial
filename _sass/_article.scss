@@ -44,6 +44,10 @@
   text-indent: 0;
 }
 
+.post br + p {
+  text-indent: 1.5em;
+}
+
 .post a:hover {
   background: transparent;
 }
