@@ -103,7 +103,8 @@ hr {
   border: 0;
   height: 0;
   @include divider;
-  margin: 4em 0;
+  margin: .5em 0;
+  text-align: center;
 }
 
 img {
