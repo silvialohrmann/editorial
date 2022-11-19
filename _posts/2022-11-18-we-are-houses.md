@@ -8,11 +8,11 @@ At first I was amused, but then I felt fear, fear of never ever not knowing agai
 
 “Take care,” she said.
 
-“Saturday at eight. <del cite="https://forum.wordreference.com/threads/in-at-on-the-corner.348930/" datetime="2022-11-19">In</del><ins>At</ins> this same corner?” 
+“Saturday at eight. <del title="edited on 2022-11-19">In</del>[<ins>At</ins>](https://forum.wordreference.com/threads/in-at-on-the-corner.348930/) this same corner?” 
 
-But no. I waited and waited. 
+But no. I waited and waited. <ins>Had she also been waiting… disappointed, doubting my existence?</ins>
 
-Had she also been waiting… disappointed, doubting my existence? I returned home very late that night. When I finally managed to fall asleep, something magical happened: Even though the intersecting streets had names I had never heard of, even though the city seemed less solid, the meeting finally took place.
+<del title="edited on 2022-11-19">Had she also been waiting… disappointed, doubting my existence?</del>I returned home very late that night. When I finally managed to fall asleep, something magical happened: Even though the intersecting streets had names I had never heard of, even though the city seemed less solid, the meeting finally took place.
 
 We remembered our first encounter, as I remember it now, and several experiences shared in scenarios that I am unable to locate. When I woke up, I looked for something to write with: “I’m not what you think,” she’d said. *You’re not what you think*, I wrote. The Freudian slip made me ponder. Maybe we were the same in a way I failed to understand.
 <hr>
