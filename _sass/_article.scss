@@ -40,7 +40,7 @@
 }
 
 .post p:first-of-type,
-.post h2 + p {
+.post h2 + p, .post hr + p {
   text-indent: 0;
 }
 
