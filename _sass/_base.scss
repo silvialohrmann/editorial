@@ -102,7 +102,7 @@ p > cite {
 hr {
   border: 0;
   height: 0;
-  @include divider-medium;
+  @include divider;
   margin: 1.2em auto 1.2em;
 }
 
