@@ -136,8 +136,9 @@ figcaption {
 }
 
 .home {
+  max-width: 16rem;
   margin: auto;
-  padding: 4em 2em;
+  padding: 4em 1em;
   color: $for-dark-background;
       @media (max-width: $on-bigphone) {
     padding: 3em 1em;
