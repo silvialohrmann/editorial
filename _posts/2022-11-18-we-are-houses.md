@@ -15,7 +15,7 @@ But no. I waited and waited.
 Had she also been waiting… disappointed, doubting my existence? I returned home very late that night. When I finally managed to fall asleep, something magical happened: Even though the intersecting streets had names I had never heard of, even though the city seemed less solid, the meeting finally took place.
 
 We remembered our first encounter, as I remember it now, and several experiences shared in scenarios that I am unable to locate. When I woke up, I looked for something to write with: “I’m not what you think,” she’d said. *You’re not what you think*, I wrote. The Freudian slip made me ponder. Maybe we were the same in a way I failed to understand.
-***
+<hr>
 We are two, everywhere. This builds a dynamic that prevents stagnation. When we part, we always remember each other. But our ties remain covered by the emotional body when we immerse ourselves in places like Earth through the beings we project.
 
 A state of bliss prevails, the feeling of being one and two at the same time. Together, as we are, we relate to others that are in the same way constituted (in pairs), and form groups that interact through the same underlying flow. The substance is one and constant throughout the universe, and universes communicate through it too. 
