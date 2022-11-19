@@ -39,10 +39,10 @@ I know it seems impossible that problems of space exist in the state we are in, 
 In short: Empty places attract to themselves entities with which they can interact. When speaking of places or houses we are not referring to things, but beings, *things* only exist in the lowest density.
 
 Our house has no definite shape, it is only a thought. We dwell in it with our intention.
-***
+<hr>
 *I’m surprised that I’m not thinking about killing myself.  I feel so bad… I’m a tumor operating itself.
 I dreamed of Itna last night, of the giant wave, again. It was a calmed fear, that of dying. What really scared me was not seeing him again.*
-***
+<hr>
 Through dreams one can access other lives. These lives, which we believe to be past, actually occur simultaneously. This is a difficult concept for someone who unfolds in the linearity of time, but it’s important to adopt it, since the permeability that exists between events from different loops of experience explains the development of evolution.
 
 Recognizing the purpose is capital. It is presented throughout your stay disguised in other things, but it is almost impossible to not know that a thread ties all together, that an arrow points to an end, it passes through each and everyone, and takes us somewhere.
@@ -52,10 +52,10 @@ We seek to expand our energy and, indeed, there is the risk of oblivion, but wit
 From here we can appreciate how the livability of the houses develops in you. We see that anyone can be house and resident at the same time, and that one cannot occupy one’s own house-being (it is almost like the law of incest at a cosmic level). We can see the system clearly in the relationship my projection has with Atfa, who is the place where his friends and family live, and to whom she, in turn, offers shelter. Itna, is house to them both.
 
 We can see that, as a child, Itna is in contact with information that remains elusive to adults, and that that knowledge is a non-knowledge, an openness to not categorize. Anyway, the timeframe of immunity to stereotypes since a person is born until they stupefy is dangerously narrowing.
-***
+<hr>
 *Maybe it’s true. Maybe there is a purpose after all. Maybe it is worth living (and dying).
 I get up to take Itna to school. We walk slowly, in silence, and I vaguely remember my dream, but I feel a deep pain anyway.*
-***
+<hr>
 Multiple beings exist between my partner and me. They emerge from each of us in pairs, and they carry our essence. Each pair parts and reunites later in worlds of diverse densities. The game itself has nothing to do with finding ourselves through our projections, though this occurs frequently. We know it is an effect of expansion and try to make the best out of it. It is like a secondary game that generates more energy.
 
 Some of our projections enter the world with great intensity, devoting to physically act in a practical way to help those who agreed to be part of *the final mass*. 
@@ -63,7 +63,7 @@ Some of our projections enter the world with great intensity, devoting to physic
 When the effects of the generated negativity couldn’t be reversed in time, many decided to act in that same manner. We must emphasize that it’s neither the only nor the best: Doing the opposite is equally appropriate and has its benefits towards the maintenance of balance and movement.
 
 We noticed that family ties affect the healthy relationship between our projections. That love is distorted and diluted in the materiality of which its demonstrations are composed. Love itself is the flow of the substance —the one that conveys information and that is the medium that brings together all the components of the universe— through the entities. On Earth, the material (solidified energy) sucks in the non-material (information provided by high vibrational energy) to itself.
-***
+<hr>
 *Inertia makes life carry me. I’d rather disappear. I’m exhausted by discussions, by stupidity, not only of others, mine. I’m tired of being stupid. I’m tired of being.
 
 *How to learn to die and be reborn without always trying to escape, without wasting time looking for gates that don’t exist (or that are so visible that it is as if they didn’t: the sky as a gate, or the sea)?*
@@ -75,7 +75,7 @@ We noticed that family ties affect the healthy relationship between our projecti
 *If I die, will I care to have left people I love here? Or is it as if awakening to another life and believing that the previous one was invented, unreal? When I wake up, what happens to those I abandon in the dream? Versions and versions of repeated people, of children, of friends, of relatives who change roles from one story to another. How to keep count, how to know who is more real?*
 
 *My life starts to be controlled by my nocturnal activity, in which everything is suited to me, in which I feel life more intimately. It is as if my spirit entered me, as if I enlarged. I make room for him to accommodate and be able to feel everything.*
-***
+<hr>
 Inter-livability allows you to live sheltered by other beings. This doesn’t mean you have to feed off the energy available in the beings that host you, though it happens a lot. The system itself is a gift through which those involved can eventually access us more easily. We speak of the ones involved because there is the possibility of not partaking in the game of the houses while still being part of the game on Earth. You don’t remember that.
 
 Oblivion is the backbone of our project. (With our we mean yours and ours.) Everything is organized around it. 
