@@ -8,7 +8,7 @@ At first I was amused, but then I felt fear, fear of never ever not knowing agai
 
 “Take care,” she said.
 
-“Saturday at eight. In this same corner?” 
+“Saturday at eight. <del datetime="2022-11-19">In</del><ins>At</ins> this same corner?” 
 
 But no. I waited and waited. 
 
