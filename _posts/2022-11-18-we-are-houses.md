@@ -8,7 +8,7 @@ At first I was amused, but then I felt fear, fear of never ever not knowing agai
 
 “Take care,” she said.
 
-“Saturday at eight. <del title="edited on 2022-11-19">In</del>[<ins>At</ins>](https://forum.wordreference.com/threads/in-at-on-the-corner.348930/) this same corner?” 
+“Saturday at eight. <del title="edited on 2022-11-19">In</del><ins>At</ins>[^1] this same corner?” 
 
 But no. I waited and waited. <ins>Had she also been waiting… disappointed, doubting my existence?</ins>
 
@@ -94,3 +94,5 @@ Going to the world is dying. That is why our projections must be highly speciali
 I dream I’m in a large room shaped like an amphitheater. They are explaining how things work on Earth and give us tips on how to achieve any goal there. 
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
+
+[^1]: https://forum.wordreference.com/threads/in-at-on-the-corner.348930/
