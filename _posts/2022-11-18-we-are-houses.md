@@ -8,7 +8,7 @@ At first I was amused, but then I felt fear, fear of never ever not knowing agai
 
 “Take care,” she said.
 
-“Saturday at eight. <del title="edited on 2022-11-19">In</del><ins>At</ins>[^1] this same corner?” 
+“Saturday at eight. <del title="edited on 2022-11-19">In</del><ins>At</ins>[^at] this same corner?” 
 
 But no. I waited and waited. <ins>Had she also been waiting… disappointed, doubting my existence?</ins>
 
@@ -64,7 +64,7 @@ When the effects of the generated negativity couldn’t be reversed in time, man
 
 We noticed that family ties affect the healthy relationship between our projections. That love is distorted and diluted in the materiality of which its demonstrations are composed. Love itself is the flow of the substance —the one that conveys information and that is the medium that brings together all the components of the universe— through the entities. On Earth, the material (solidified energy) sucks in the non-material (information provided by high vibrational energy) to itself.
 <hr>
-*Inertia makes life carry me. I’d rather disappear. I’m exhausted by discussions, by stupidity, not only of others, mine. I’m tired of being stupid. I’m tired of being.
+*Inertia makes life carry me. I’d rather disappear. I’m exhausted by discussions, by stupidity, not only of others, mine. I’m tired of being stupid. I’m tired of being.*
 
 *How to learn to die and be reborn without always trying to escape, without wasting time looking for gates that don’t exist (or that are so visible that it is as if they didn’t: the sky as a gate, or the sea)?*
 
@@ -95,4 +95,5 @@ I dream I’m in a large room shaped like an amphitheater. They are explaining h
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
 
-[^1]: https://forum.wordreference.com/threads/in-at-on-the-corner.348930/
+<h5 class="footnotes">Notes</h4>
+[^at]: https://forum.wordreference.com/threads/in-at-on-the-corner.348930/
