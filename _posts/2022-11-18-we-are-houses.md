@@ -8,7 +8,7 @@ At first I was amused, but then I felt fear, fear of never ever not knowing agai
 
 “Take care,” she said.
 
-“Saturday at eight. <del title="edited on 2022-11-19">In</del>[<ins>At</ins>](https://forum.wordreference.com/threads/in-at-on-the-corner.348930/) this same corner?” 
+“Saturday at eight. <del title="edited on 2022-11-19">In</del>[<ins>At</ins>](https://forum.wordreference.com/threads/in-at-on-the-corner.348930/ "(target|_blank)") this same corner?” 
 
 But no. I waited and waited. <ins>Had she also been waiting… disappointed, doubting my existence?</ins>
 
