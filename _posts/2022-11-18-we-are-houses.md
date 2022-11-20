@@ -4,11 +4,11 @@ category: Intro
 layout: post
 ---
 
-At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked a bit like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or witch. 
+At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked a bit[^2] like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins>a</ins> witch. 
 
 “Take care,” she said.
 
-“Saturday at eight. <del title="edited on 2022-11-19">In</del><ins>At</ins>[^at] this same corner?” 
+“Saturday at eight. <del title="edited on 2022-11-19">In</del><ins>At</ins>[^1] this same corner?” 
 
 But no. I waited and waited. <ins>Had she also been waiting… disappointed, doubting my existence?</ins>
 
@@ -95,5 +95,6 @@ I dream I’m in a large room shaped like an amphitheater. They are explaining h
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
 
-<h5 class="footnotes">Notes</h4>
-[^at]: https://forum.wordreference.com/threads/in-at-on-the-corner.348930/
+<h5 class="footnotes">Notes</h5>
+[^1]: https://forum.wordreference.com/threads/in-at-on-the-corner.348930/
+[^2]: https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad
