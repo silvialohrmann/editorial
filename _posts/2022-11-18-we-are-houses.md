@@ -96,6 +96,6 @@ I dream I’m in a large room shaped like an amphitheater. They are explaining h
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
 
 <h5>Notes</h5>
-[^1]: "in / at / on the corner," WordReference.com Language Forums, accessed November 19, 2022, https://forum.wordreference.com/threads/in-at-on-the-corner.348930/
+[^1]: "in / at / on the corner," WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/
 [^2]: "What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?'," English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad
 [^3]: "Prepositions of Time - at, in, on," Grammar, English Club, accessed November 21, 2022, https://www.englishclub.com/grammar/prepositions-at-in-on-time.htm
