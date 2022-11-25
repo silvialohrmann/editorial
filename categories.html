@@ -12,9 +12,6 @@ description: A very simple way to add structured data to a page.
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="{{ category_name }}"></div>
     <h3 class="category-head">{{ category_name | slugize }}</h3>
-    {% for title in site.titles %}
-    <p> {{ title_name | slugize }} </p>
-    {% endfor %}
    <ul class="post-list">
     {% for post in site.categories[category_name] %}
     {% include post-list-item.html %}
