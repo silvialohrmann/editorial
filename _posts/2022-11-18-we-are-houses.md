@@ -1,8 +1,11 @@
 ---
 title: "We Are Houses"
 category: Intro
-description: Sarasa
-layout: post
+description: |
+  I am a multiple line
+  string value that can
+  go on and on.
+  layout: post
 ---
 
 At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span title="note added on 2022-11-20">a bit</span>[^2] like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
