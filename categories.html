@@ -14,14 +14,14 @@ title:
     <div id="{{ category_name }}"></div>
     <h3 class="category-head">{{ category_name | slugize }}</h3>
 
-{% for site.category['Intro'] %}
+{% for ['Intro'] in site.categories %}
 {% capture category_description %}
 {{ intro_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
 {% endfor %}
 
-{% for site.category['Imaginable'] %}
+{% for ['Imaginable'] in site.categories %}
 {% capture category_description %}
 {{ imaginable_desc }}.
 {% endcapture %}
