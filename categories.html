@@ -20,3 +20,20 @@ description: A very simple way to add structured data to a page.
   </div>
 {% endfor %}
 </div>
+
+{% assign intro_desc = "sarasa sarasa 1" %}
+{% assign imaginable_desc = "sarasa sarasa 1" %}
+
+{% if category != "Intro" %}
+{% capture category_description %}
+{{ intro_desc }}.
+{% endcapture %}
+{% endif %}
+<p class="category-description">{{ category_description }}</p>
+
+{% if category != "Imaginable" %}
+{% capture category_description %}
+{{ imaginable_desc }}.
+{% endcapture %}
+{% endif %}
+<p class="category-description">{{ category_description }}</p>
