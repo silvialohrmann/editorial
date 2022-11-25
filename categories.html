@@ -2,7 +2,6 @@
 layout: page
 permalink: /categories/
 title:
-description: A very simple way to add structured data to a page.
 ---
 
 
@@ -16,14 +15,14 @@ description: A very simple way to add structured data to a page.
 {% assign intro_desc = "sarasa sarasa 1" %}
 {% assign imaginable_desc = "sarasa sarasa 2" %}
 
-{% if category != "Intro" %}
+{% if page.category contains "intro" %}
 {% capture category_description %}
 {{ intro_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
 {% endif %}
 
-{% if category != "Imaginable" %}
+{% if page.category contains "imaginable" %}
 {% capture category_description %}
 {{ imaginable_desc }}.
 {% endcapture %}
