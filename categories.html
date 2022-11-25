@@ -14,19 +14,19 @@ title:
     <div id="{{ category_name }}"></div>
     <h3 class="category-head">{{ category_name | slugize }}</h3>
 
-{% if site.categories['Intro'] %}
+{% for site.category['Intro'] %}
 {% capture category_description %}
 {{ intro_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
-{% endif %}
+{% endfor %}
 
-{% if site.categories['Imaginable'] %}
+{% for site.category['Imaginable'] %}
 {% capture category_description %}
 {{ imaginable_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
-{% endif %}
+{% endfor %}
     
    <ul class="post-list">
     {% for post in site.categories[category_name] %}
