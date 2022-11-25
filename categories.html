@@ -12,17 +12,17 @@ title:
     <div id="{{ category_name }}"></div>
     <h3 class="category-head">{{ category_name | slugize }}</h3>
     
-{% assign intro_desc = "sarasa sarasa 1" %}
-{% assign imaginable_desc = "sarasa sarasa 2" %}
+{% assign intro_desc = "sarasa sarasa intro" %}
+{% assign imaginable_desc = "sarasa sarasa imaginable" %}
 
-{% if category_name = "Intro" %}
+{% for post in site.categories['Intro'] %}
 {% capture category_description %}
 {{ intro_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
-{% endif %}
+{% endfor %}
 
-{% if category_name = "Imaginable" %}
+{% for post in site.categories['Imaginable'] %}
 {% capture category_description %}
 {{ imaginable_desc }}.
 {% endcapture %}
