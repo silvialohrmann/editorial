@@ -27,7 +27,7 @@ title:
 {{ imaginable_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
-{% endif %}
+{% endfor %}
     
    <ul class="post-list">
     {% for post in site.categories[category_name] %}
