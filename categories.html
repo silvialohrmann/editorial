@@ -11,8 +11,11 @@ title:
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="{{ category_name }}"></div>
     <h3 class="category-head">{{ category_name | slugize }}</h3>
-    {% capture description %}{{ description }}{% endcapture %}
-    <p class="category-desc">{{ description_name }}</p>
+<ul>
+    {% for post in category_name %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
    <ul class="post-list">
     {% for post in site.categories[category_name] %}
     {% include post-list-item.html %}
