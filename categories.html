@@ -4,6 +4,8 @@ permalink: /categories/
 title:
 ---
 
+{% assign intro_desc = "sarasa sarasa intro" %}
+{% assign imaginable_desc = "sarasa sarasa imaginable" %}
 
 <div class="category-ul">
 {% for category in site.categories %}
@@ -11,23 +13,20 @@ title:
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="{{ category_name }}"></div>
     <h3 class="category-head">{{ category_name | slugize }}</h3>
-    
-{% assign intro_desc = "sarasa sarasa intro" %}
-{% assign imaginable_desc = "sarasa sarasa imaginable" %}
 
-{% for post in site.categories['Intro'] %}
+{% if site.categories['Intro'] %}
 {% capture category_description %}
 {{ intro_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
-{% endfor %}
+{% endif %}
 
-{% for post in site.categories['Imaginable'] %}
+{% if site.categories['Imaginable'] %}
 {% capture category_description %}
 {{ imaginable_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
-{% endfor %}
+{% endif %}
     
    <ul class="post-list">
     {% for post in site.categories[category_name] %}
