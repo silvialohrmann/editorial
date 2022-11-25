@@ -15,14 +15,14 @@ title:
 {% assign intro_desc = "sarasa sarasa 1" %}
 {% assign imaginable_desc = "sarasa sarasa 2" %}
 
-{% if page.category contains "intro" %}
+{% if category_name = "Intro" %}
 {% capture category_description %}
 {{ intro_desc }}.
 {% endcapture %}
 <p class="category-description">{{ category_description }}</p>
 {% endif %}
 
-{% if page.category contains "imaginable" %}
+{% if category_name = "Imaginable" %}
 {% capture category_description %}
 {{ imaginable_desc }}.
 {% endcapture %}
