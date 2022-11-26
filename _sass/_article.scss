@@ -95,9 +95,10 @@
 }
 
 p.categories {
-  font-size:80%;
+  font-size:85%;
   color: $muted-text-color;
-   text-align: left;
+  text-align: left;
+  word-break: keep-all;
 }
 
 .categories a {
