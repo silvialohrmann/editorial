@@ -94,11 +94,16 @@
   margin: auto;
 }
 
-.category-ul p {
+.categories p {
   font-size:75%;
+  color: $muted-text-color;
+   text-align: right;
+}
+
+.categories p a {
   color: $muted-text-color;
 }
 
-.category-ul a {
-  color: $muted-text-color;
+.categories p a:hover {
+  text-decoration: none;
 }
