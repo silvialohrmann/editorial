@@ -98,7 +98,7 @@ p.categories {
   font-size:95%;
   color: $muted-text-color;
   text-align: left;
-  word-break: keep-all;
+  word-break: revert;
 }
 
 .categories a {
