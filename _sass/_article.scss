@@ -95,13 +95,13 @@
 }
 
 p.categories {
-  color: $striking-color;
+  color: $non-muted-text-color;
   text-align: left;
   font-size: 90%;
 }
 
 .categories a {
-  color: $muted-text-color;
+  color: $non-muted-text-color;
 }
 
 .categories a:hover {
