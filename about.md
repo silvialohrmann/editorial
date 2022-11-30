@@ -19,10 +19,12 @@ During quarantine, I also made the time to round up my writing of several years 
 
 This year, I reread them and decided to publish them as they were. Then I built this blog to reedit the texts for a future second edition of each. The books are:
 <div id="books"></div>
-<img src="/assets/images/Intro%20-%20cover.jpg" width="150">
-- *Intro*, an introspective narrative dealing with the relation universe-human.
-- *Imaginable*, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
-- *Multiversal*, a long story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
+<img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="150">
+*Intro*, an introspective narrative dealing with the relation universe-human.
+<img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="150">
+*Imaginable*, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
+<img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="150">
+*Multiversal*, a long story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
 
 In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016. I hope you like it.
 
