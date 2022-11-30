@@ -5,4 +5,4 @@ title: "Silvia Lohrmann"
 
 This is my personal website, where I edit my narrative. It is built on Hitchens, a [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com), which I tweaked to suit my needs.
 
-![Hitchens-Silvia Lohrmann comparison](/screenshot.png)
+![Hitchens-Silvia Lohrmann comparison](/screenshot.jpg)
