@@ -20,12 +20,13 @@ During quarantine, I also made the time to round up my writing of several years 
 This year, I reread them and decided to publish them as they were. Then I built this blog to reedit the texts for a future second edition of each. The books are:
 <div id="books"></div>
 <img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="150">
-*Intro*, an introspective narrative dealing with the relation universe-human.
+<p class="book">*Intro*, an introspective narrative dealing with the relation universe-human.</p>
 <img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="150">
-*Imaginable*, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
+<p class="book">*Imaginable*, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
 <img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="150">
-*Multiversal*, a long story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
+<p class="book">*Multiversal*, a long story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
 
 In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016. I hope you like it.
 
+<h5>Notes</h5>
 [^1]:	I obtained my Graphic Designer degree from FADU/UBA.
