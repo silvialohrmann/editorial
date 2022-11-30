@@ -19,7 +19,7 @@ During quarantine, I also made the time to round up my writing of several years 
 
 This year, I reread them and decided to publish them as they were. Then I built this blog to reedit the texts for a future second edition of each. The books are:
 <div id="books"></div>
-[Intro](/assets/images/Multiversal%20-%20cover.jpg){:height="160px" width="100px"}.
+[Intro](/assets/images/Multiversal%20-%20cover.jpg)
 - *Intro*, an introspective narrative dealing with the relation universe-human.
 - *Imaginable*, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
 - *Multiversal*, a long story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
