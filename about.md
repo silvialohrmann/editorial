@@ -20,15 +20,15 @@ During quarantine, I also made the time to round up my writing of several years 
 This year, I reread them and decided to publish them as they were. Then I built this blog to reedit the texts for a future second edition of each. The books are:
  <div id="imaginable">
 <img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
-*Imaginable*, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
+<em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
  </div>
  <div id="intro">
 <img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
-*Intro*, an introspective narrative dealing with the relation universe-human.
+<em>Intro</em>, an introspective narrative dealing with the relation universe-human.
  </div>
  <div id="multiversal">
 <img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-*Multiversal*, a long story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
+<em>Multiversal</em>, a long story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
  </div>
 
 In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016. I hope you like it.
