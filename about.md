@@ -19,15 +19,15 @@ During quarantine, I also made the time to round up my writing of several years 
 
 This year, I reread them and decided to publish them as they were. That's why I built this blog, to reedit the texts for a future second edition of each. The books are:
 
- <div id="imaginable">
+ <div style="float:left; clear=both;" id="imaginable">
 <img style="float:left; clear=both;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
 <p><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
- <div id="intro">
+ <div style="float:left; clear=both;" id="intro">
 <img style="float:left; clear=both;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
 <p><em>Intro</em>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
- <div id="multiversal">
+ <div style="float:left; clear=both;" id="multiversal">
 <img style="float:left; clear=both;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
 <p><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
 
