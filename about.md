@@ -21,7 +21,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
 <div style="max-width:18em; margin:auto;  text-align:center;">
  <div id="imaginable">
 <img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
-<p style="color:$non-muted-text-color;"><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
+<p style="color:red;"><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
  <div id="intro">
 <img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
