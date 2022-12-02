@@ -24,7 +24,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
 <p><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
  <div id="intro">
-<img style="float:left;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
+<img style="float:left; clear=right;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
 <p><em>Intro</em>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
  <div id="multiversal">
