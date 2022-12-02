@@ -18,18 +18,18 @@ Slow-paced, I had passed five out of twenty-four subjects before the pandemic. T
 During quarantine, I also made the time to round up my writing of several years in three books. I had every intention of publishing them through Ingramspark, but chickened out and let them resting in the platform, a click away from reaching the world ☜(ˆ▽ˆ).
 
 This year, I reread them and decided to publish them as they were. That's why I built this blog, to reedit the texts for a future second edition of each. The books are:
-<div style="max-width:18em; margin:auto;  text-align:center; color:$non-muted-text-color;">
+<div style="max-width:18em; margin:auto;  text-align:center;">
  <div id="imaginable">
 <img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
-<p><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
+<p style="color:$non-muted-text-color;"><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
  <div id="intro">
 <img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
-<p><em>Intro</em>, an introspective narrative dealing with the relation universe-human.</p>
+<p style="color:$non-muted-text-color;"><em>Intro</em>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
  <div id="multiversal">
 <img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<p><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
+<p style="color:$non-muted-text-color;"><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
  <p>In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016.</p> 
