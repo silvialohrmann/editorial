@@ -31,7 +31,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
 <img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
 <em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
  </div>
-
+<br/>
 In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016. I hope you like it.
 
 <h5>Notes</h5>
