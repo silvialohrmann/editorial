@@ -21,16 +21,17 @@ This year, I reread them and decided to publish them as they were. That's why I 
 
  <div id="imaginable">
 <img style="float:left;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
-<em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
+<p style="float:left; clear:both;"><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
  <div id="intro">
-<img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
-<em>Intro</em>, an introspective narrative dealing with the relation universe-human.
+<img style="float:left;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
+<p style="float:left; clear:both;"><em>Intro</em>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
  <div id="multiversal">
-<img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
-<p>In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016.</p> 
+<img style="float:left;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
+<p style="float:left; clear:both;"><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
+
+ <p>In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016.</p> 
  
 <p>I hope you like it.</p>
  </div>
