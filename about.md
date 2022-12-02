@@ -20,7 +20,7 @@ During quarantine, I also made the time to round up my writing of several years 
 This year, I reread them and decided to publish them as they were. That's why I built this blog, to reedit the texts for a future second edition of each. The books are:
 
  <div id="imaginable">
-<img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
+<img style="float:left;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
 <em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.
  </div>
  <div id="intro">
@@ -30,10 +30,9 @@ This year, I reread them and decided to publish them as they were. That's why I 
  <div id="multiversal">
 <img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
 <em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.
-
-In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016. 
+<p>In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016.</p> 
  
-I hope you like it.
+<p>I hope you like it.</p>
  </div>
 
 <h5>Notes</h5>
