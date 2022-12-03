@@ -20,7 +20,7 @@ During quarantine, I also made the time to round up my writing of several years 
 This year, I reread them and decided to publish them as they were. That's why I built this blog, to reedit the texts for a future second edition of each. The books are:
 <div style="margin:auto;">
  <div id="imaginable">
-<img style="margin:100px auto 10px;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
+<img style="margin:80px auto 10px;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
 <p style="max-width:18em; color:#fcc723; text-align:center; margin:auto;"><em>Imaginable</em>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
  <div id="intro">
@@ -29,7 +29,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
  </div>
  <div id="multiversal">
 <img style="margin:100px auto 10px;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<p style="max-width:18em; color:#fcc723; text-align:center; margin:auto; margin-bottom:100px;"><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
+<p style="max-width:18em; color:#fcc723; text-align:center; margin:auto; margin-bottom:80px;"><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
  <p>In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016.</p> 
