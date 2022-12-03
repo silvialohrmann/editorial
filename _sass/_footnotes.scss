@@ -18,6 +18,10 @@
   margin: 5em auto;
 }
 
+a.footnote {
+  color: $striking-color;
+}
+
 li::marker {
   margin-left:2em;
 }
