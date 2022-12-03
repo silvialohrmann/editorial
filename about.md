@@ -5,7 +5,7 @@ layout: page
 
 In 2013, I registered my first unpublished work, called *The Soul's Perspective*. This was a second big step towards immersing myself into the publishing arena. The first one had been via my graphic designer bone[^1], through which I had earned a position as a layout artist in an aviation magazine. Thanks to this job, and other gigs of the kind, I got to learn a lot about editorial design.
 
-So, even though I knew this first registered text needed a lot of work, a first milestone had been reached. Nevertheless, if I wanted to be published, I had to learn to write professionally. Also, it wouldn't hurt if I knew how an editor thinks. 
+So, even though I knew this first registered text needed a lot of work, a first milestone had been reached. Nevertheless, if I wanted to be published, I had to learn to write professionally (also, it wouldn't hurt if I knew how an editor thinks). 
 
 First things first, and having done a great deal of research, I decided to jump into a translation course, the best I could find here in Buenos Aires (yes, I was raised in Argentina, and born, in 1969).
 
@@ -13,7 +13,7 @@ I started studying English-Spanish Literary Translation At Lenguas Vivas “Juan
 
 Then, at one point, and following my intuition, I decided to turn towards studying Publishing. I knew there was this interesting course at Filo/UBA (Faculty of Philosophy and Letters at University of Buenos Aires) called *Edición*. It had started in 1992 offering a technical degree that a few years later changed into an undergraduate one[^3]. 
 
-Slow-paced, I had passed five out of twenty-four subjects before the pandemic. Then, due to home-office, I could dedicate myself to studying non-stop for almost two years. As a result, today I'm two subjects away from graduation.
+Slow-paced, I had passed five out of twenty-four subjects before the pandemic. Then, due to home-office, I could dedicate myself to studying non-stop for almost two years. Today I'm two subjects away from graduation.
 
 During quarantine, I also made the time to round up my writing of several years in three books. I had every intention of publishing them through Ingramspark, but chickened out and let them resting in the platform, a click away from reaching the world ☜(ˆ▽ˆ).
 
