@@ -29,7 +29,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
  </div>
  <div id="multiversal">
 <img style="margin-bottom:10px;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<p style="color:#999999;margin-bottom:"><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
+<p style="color:#999999;margin-bottom:2em;"><em>Multiversal</em>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
  <p>In this blog, you'll also find a number of microstories I wrote between the years 2011 and 2016.</p> 
