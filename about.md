@@ -5,7 +5,7 @@ layout: page
 
 In 2013, I registered my first unpublished work, called *The Soul's Perspective*. This was a second big step towards immersing myself into the publishing arena. The first one had been via my graphic designer bone[^1], through which I had earned a position as a layout artist in an aviation magazine. Thanks to this job, and other gigs of the kind, I got to learn a lot about editorial design.
 
-So, even though I knew this first registered text needed a lot of work, a first milestone had been reached. Nevertheless, if I wanted to be published, I had to learn to write professionally (also, it wouldn't hurt if I knew how an editor thinks). 
+So, even though I knew this first registered text needed a lot of work, a first milestone had been reached. Nevertheless, if I wanted to be published (or self-published), I had to learn to write professionally. 
 
 First things first, and having done a great deal of research, I decided to jump into a translation course, the best I could find here in Buenos Aires (yes, I was raised in Argentina, and born, in 1969).
 
