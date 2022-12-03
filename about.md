@@ -5,7 +5,7 @@ layout: page
 
 In 2013, I registered my first unpublished work, called *The Soul's Perspective*. This was a second big step towards immersing myself into the publishing arena. The first one had been via my graphic designer bone[^1], through which I had earned a position as a layout artist in an aviation magazine. Thanks to this job, and other gigs of the kind, I got to learn a lot about editorial design.
 
-So, even though I knew this first registered text needed a lot of work, a first milestone had been reached. Nevertheless, if I wanted to be published, I had to learn to write professionally. And, also, it wouldn't hurt if I knew how an editor thinks. 
+So, even though I knew this first registered text needed a lot of work, a first milestone had been reached. Nevertheless, if I wanted to be published, I had to learn to write professionally. Also, it wouldn't hurt if I knew how an editor thinks. 
 
 First things first, and having done a great deal of research, I decided to jump into a translation course, the best I could find here in Buenos Aires (yes, I was raised in Argentina, and born, in 1969).
 
@@ -39,6 +39,6 @@ This year, I reread them and decided to publish them as they were. That's why I 
 
 [^1]:	I obtained my Graphic Designer degree from FADU/UBA (Faculty of Architecture, Design and Urbanism at University of Buenos Aires).
 
-[^2]:	As I'm writing this, I have dropped out of the Traductorado and enrolled in Artes de la Escritura (Writing Arts) at UNA (National University of The Arts), where one can become a writer. 
+[^2]:	As I'm writing this, I have dropped out of the Traductorado and enrolled in Artes de la Escritura (Writing Arts) at UNA (National University of The Arts), where one can become a writer. This undergraduate course was created in 2016. Its curriculum was insanely long, for which was reformed in 2019 to make it possible for human students to get their degree.
 
 [^3]:	The degree used to be called *Técnica en Edición*. Now it's *Editora* and they're going for *Licenciada en Edición*. 
