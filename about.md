@@ -11,7 +11,7 @@ First things first, and having done a great deal of research, I decided to jump 
 
 I started studying English-Spanish Literary Translation At Lenguas Vivas “Juan Ramón Fernández," and got almost halfway through my degree. At the time, I found it was the best way of learning to write properly[^2], both in Spanish and English. Because, against all good advice, I have always enjoyed writing my narrative in English.
 
-Then, at one point, and following my intuition, I decided to turn towards studying Publishing. I knew there was this interesting course at Filo/UBA called *Edición*. It had started in 1992 offering a technical degree that a few years later changed into an undergraduate one[^3]. 
+Then, at one point, and following my intuition, I decided to turn towards studying Publishing. I knew there was this interesting course at Filo/UBA (Faculty of Philosophy and Letters at University of Buenos Aires) called *Edición*. It had started in 1992 offering a technical degree that a few years later changed into an undergraduate one[^3]. 
 
 Slow-paced, I had passed five out of twenty-four subjects before the pandemic. Then, due to home-office, I could dedicate myself to studying non-stop for almost two years. As a result, today I'm two subjects away from graduation.
 
@@ -37,8 +37,8 @@ This year, I reread them and decided to publish them as they were. That's why I 
 <p>I hope you like it.</p>
 <h5>Notes</h5>
 
-[^1]:	I obtained my Graphic Designer degree from FADU/UBA.
+[^1]:	I obtained my Graphic Designer degree from FADU/UBA (Faculty of Architecture, Design and Urbanism at University of Buenos Aires).
 
-[^2]:	As I'm writing this, I have dropped the Traductorado and signed in for Artes de la Escritura (Writing Arts) at UNA (National University of The Arts), where one can become a writer. 
+[^2]:	As I'm writing this, I have dropped out of the Traductorado and enrolled in Artes de la Escritura (Writing Arts) at UNA (National University of The Arts), where one can become a writer. 
 
 [^3]:	The degree used to be called *Técnica en Edición*. Now it's *Editora* and they're going for *Licenciada en Edición*. 
