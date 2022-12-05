@@ -25,11 +25,11 @@ This year, I reread them and decided to publish them as they were. That's why I 
  </div>
  <div id="intro">
 <img style="margin:100px auto 10px;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
-<p style="max-width:18em; color:#fcc723; text-align:center; margin:auto;"><a herf="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
+<p style="max-width:18em; color:#fcc723; text-align:center; margin:auto;"><a href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
  <div id="multiversal">
 <img style="margin:100px auto 10px;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<p style="max-width:18em; color:#fcc723; text-align:center; margin:auto; margin-bottom:80px;"><a herf="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
+<p style="max-width:18em; color:#fcc723; text-align:center; margin:auto; margin-bottom:80px;"><a href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
  <p>In this blog, you'll also find a number of <a href="https://editorial.silvialohrmann.com/categories/#Microstories">microstories</a> I wrote between the years 2011 and 2016.</p> 
