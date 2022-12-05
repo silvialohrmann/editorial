@@ -11,7 +11,7 @@ First things first, and having done a great deal of research, I decided to jump 
 
 I started studying English-Spanish Literary Translation At Lenguas Vivas “Juan Ramón Fernández," and got almost halfway through my degree. At the time, I found it was the best way of learning to write properly[^2], both in Spanish and English. Because, against all good advice, I have always enjoyed writing my narrative in English.
 
-Then, at one point, and following my intuition, I decided to turn towards studying Publishing. I knew there was this interesting course at Filo/UBA (Faculty of Philosophy and Letters at University of Buenos Aires) called *Edición*. It had started in 1992 offering a technical degree that a few years later changed into an undergraduate one[^3]. 
+Then, at one point, and following my intuition, I decided to turn towards studying Publishing. I knew there was this interesting course at Filo/UBA[^4] called *Edición*. It had started in 1992 offering a technical degree that a few years later changed into an undergraduate one[^3]. 
 
 Slow-paced, I had passed five out of twenty-four subjects before the pandemic. Then, due to home-office, I could dedicate myself to studying non-stop for almost two years. Today, I'm two subjects away from graduation.
 
@@ -32,7 +32,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
 <p style="max-width:18em; color:#fcc723; text-align:center; margin:auto; margin-bottom:80px;"><a style="color:#fcc723;" href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
- <p>In this blog, you'll also find a number of <a style="color:#fcc723;" href="https://editorial.silvialohrmann.com/categories/#Microstories">microstories</a> I wrote between the years 2011 and 2016.</p> 
+ <p>In this blog, you'll also find a number of <a style="color:whitesmoke;" href="https://editorial.silvialohrmann.com/categories/#Microstories">microstories</a> I wrote between the years 2011 and 2016.</p> 
  
 <p>I hope you like it.</p>
 <h5>Notes</h5>
@@ -42,3 +42,4 @@ This year, I reread them and decided to publish them as they were. That's why I 
 [^2]:	As I'm writing this, I have dropped out of the Traductorado and enrolled in Artes de la Escritura (Writing Arts) at UNA (National University of The Arts), where one can become a writer. This undergraduate course was created in 2016. Its curriculum was insanely long, for which it was reformed in 2019 to make it possible for human students to get their degree.
 
 [^3]:	The degree used to be called *Técnica en Edición*. Now it's *Editora* and they're going for *Licenciada en Edición*. 
+[^4]: Faculty of Philosophy and Letters at University of Buenos Aires.
