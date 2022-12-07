@@ -23,7 +23,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
 <img style="margin:80px auto 20px;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
 <p style="max-width:18em; color:#d7f7fa; text-align:center; margin:auto;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Imaginable">Imaginable</a>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
- <div style="margin:100px auto 20px; padding:25px; color: whitesmoke;" id="intro">
+ <div style="margin:100px auto 20px; padding:25px; background: whitesmoke;" id="intro">
 <img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
 <p style="max-width:18em; color:#d7f7fa; text-align:center; margin:auto;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
