@@ -19,17 +19,17 @@ During quarantine, I also made the time to round up my writing of several years 
 
 This year, I reread them and decided to publish them as they were. That's why I built this blog, to reedit the texts for a future second edition of each. The books are:
 <div style="margin:auto;">
- <div id="imaginable">
-<img style="margin:80px auto 20px;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
-<p style="max-width:18em; color:#d7f7fa; text-align:center; margin:auto;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Imaginable">Imaginable</a>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
+ <div style="margin:100px auto; padding:25px; background: whitesmoke;" id="imaginable">
+<img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
+<p style="max-width:12em; color:#0b0404; text-align:center; margin:auto;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Imaginable">Imaginable</a>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
- <div style="margin:100px auto 20px; padding:25px; background: whitesmoke;" id="intro">
+ <div style="margin:100px auto; padding:25px; background: whitesmoke;" id="intro">
 <img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
-<p style="max-width:18em; color:#d7f7fa; text-align:center; margin:auto;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
+<p style="max-width:12em; color:#0b0404; text-align:center; margin:auto;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
- <div id="multiversal">
-<img style="margin:100px auto 20px;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<p style="max-width:18em; color:#d7f7fa; text-align:center; margin:auto; margin-bottom:80px;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
+ <div style="margin:100px auto; padding:25px; background: whitesmoke;" id="multiversal">
+<img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
+<p style="max-width:12em; color:#0b0404; text-align:center; margin:auto; margin-bottom:80px;"><a style="color:#d7f7fa;" href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
  <p>In this blog, you'll also find a number of <a style="color:whitesmoke;" href="https://editorial.silvialohrmann.com/categories/#Microstories">microstories</a> I wrote between the years 2011 and 2016.</p> 
