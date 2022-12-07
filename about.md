@@ -20,15 +20,15 @@ During quarantine, I also made the time to round up my writing of several years 
 This year, I reread them and decided to publish them as they were. That's why I built this blog, to reedit the texts for a future second edition of each. The books are:
 <div style="margin:auto;">
  <div id="imaginable">
-<img style="margin:80px auto 10px;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
+<img style="margin:80px auto 20px;" src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
 <p style="max-width:18em; color:#fde391; text-align:center; margin:auto;"><a style="color:#fde391;" href="https://editorial.silvialohrmann.com/categories/#Imaginable">Imaginable</a>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
  <div id="intro">
-<img style="margin:100px auto 10px;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
+<img style="margin:100px auto 20px;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
 <p style="max-width:18em; color:#fde391; text-align:center; margin:auto;"><a style="color:#fde391;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
  <div id="multiversal">
-<img style="margin:100px auto 10px;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
+<img style="margin:100px auto 20px;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
 <p style="max-width:18em; color:#fde391; text-align:center; margin:auto; margin-bottom:80px;"><a style="color:#fde391;" href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
