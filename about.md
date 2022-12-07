@@ -7,7 +7,7 @@ In 2013, I registered my first unpublished work, called *The Soul's Perspective*
 
 So, even though I knew this first registered text needed a lot of work, a first milestone had been reached. Nevertheless, if I wanted to be published (or self-published), I had to learn to write professionally. 
 
-First things first, and having done a great deal of research, I decided to jump into a translation course, the best I could find here in Buenos Aires (yes, I was raised in Argentina, and born, in 1969).
+Having done a great deal of research, I decided to jump into a translation course, the best I could find here in Buenos Aires (yes, I was raised in Argentina, and born, in 1969).
 
 I started studying English-Spanish Literary Translation At Lenguas Vivas “Juan Ramón Fernández," and got almost halfway through my degree. At the time, I found it was the best way of learning to write properly[^2], both in Spanish and English. Because, against all good advice, I have always enjoyed writing my narrative in English.
 
@@ -21,15 +21,15 @@ This year, I reread them and decided to publish them as they were. That's why I 
 <div style="margin:auto;">
  <div style="margin:50px auto; padding:25px; background: whitesmoke;" id="imaginable">
 <img src="/assets/images/Imaginable%20-%20cover.jpg" alt="Imaginable" width="250">
-<p style="max-width:12em; color:#0b0404; margin:10px auto;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Imaginable">Imaginable</a>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
+<p style="max-width:12em; color:#0b0404; margin:5px auto 0;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Imaginable">Imaginable</a>, short narratives touching the concepts of death, afterlife, parallel lives and the dimensions of existence.</p>
  </div>
  <div style="margin:50px auto; padding:25px; background: whitesmoke;" id="intro">
 <img src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
-<p style="max-width:12em; color:#0b0404; margin:10px auto;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
+<p style="max-width:12em; color:#0b0404; margin:5px auto 0;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
  </div>
  <div style="margin:50px auto; padding:25px; background: whitesmoke;" id="multiversal">
 <img src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<p style="max-width:12em; color:#0b0404; margin:10px auto;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
+<p style="max-width:12em; color:#0b0404; margin:5px auto 0;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
  <p>In this blog, you'll also find a number of <a style="color:whitesmoke;" href="https://editorial.silvialohrmann.com/categories/#Microstories">microstories</a> I wrote between the years 2011 and 2016.</p> 
