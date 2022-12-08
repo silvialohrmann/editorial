@@ -25,7 +25,7 @@ This year, I reread them and decided to publish them as they were. That's why I 
  </div>
  <div style="margin:50px auto; padding:25px; background: whitesmoke;" id="intro">
 <img style="margin:25px auto;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
-<p style="max-width:12em; color:#0b0404; margin:0 auto 25px;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective narrative dealing with the relation universe-human.</p>
+<p style="max-width:12em; color:#0b0404; margin:0 auto 25px;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective nar&shy;rative dealing with the relation universe-human.</p>
  </div>
  <div style="margin:50px auto; padding:25px; background: whitesmoke;" id="multiversal">
 <img style="margin:25px auto;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
