@@ -7,8 +7,9 @@ body {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2em;
   margin: .5em auto;
+  text-align:center;
 }
 
 h2 {
@@ -161,7 +162,7 @@ figcaption {
 }
 
 .post-date {
-  color: $highlight;
+  color: $striking-color;
   display: block;
   font-size: .825em;
   font-size: 70%;
@@ -199,10 +200,10 @@ figcaption {
 
 /* TWO COLUMN FLEXBOX */
 .two-column {
-  -webkit-columns: 2 250px;
-     -moz-columns: 2 250px;
-          columns: 2 250px;
-  -webkit-column-gap: 1.5em;
-     -moz-column-gap: 1.5em;
-          column-gap: 1.5em;
+  -webkit-columns: 2 300px;
+     -moz-columns: 2 300px;
+          columns: 2 300px;
+  -webkit-column-gap: 1.6em;
+     -moz-column-gap: 1.6em;
+          column-gap: 1.6em;
 }
