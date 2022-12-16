@@ -199,10 +199,10 @@ figcaption {
 
 /* TWO COLUMN FLEXBOX */
 .two-column {
-  -webkit-columns: 2 200px;
-     -moz-columns: 2 200px;
-          columns: 2 200px;
-  -webkit-column-gap: 4em;
-     -moz-column-gap: 4em;
-          column-gap: 4em;
+  -webkit-columns: 2 220px;
+     -moz-columns: 2 220px;
+          columns: 2 220px;
+  -webkit-column-gap: 1em;
+     -moz-column-gap: 1em;
+          column-gap: 1em;
 }
