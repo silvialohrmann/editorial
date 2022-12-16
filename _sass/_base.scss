@@ -196,3 +196,13 @@ figcaption {
   }
   display:none;
 }
+
+/* TWO COLUMN FLEXBOX */
+.two-column {
+  display:flex;
+  flex-direction:row;
+}
+.two-column div {
+  flex:1;
+  border:1px solid blue;
+}
