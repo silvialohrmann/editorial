@@ -9,7 +9,7 @@ layout: default
 {% endif %}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
-
+<section class="two-column">
   {% if page.title != "" %}
     <h1 class="post-title divided-post p-name" itemprop="name headline">
       {{ page.title }}
@@ -19,7 +19,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+</section>
   <div class="post-meta">
     
     {% if page.author %}
