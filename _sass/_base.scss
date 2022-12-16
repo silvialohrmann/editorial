@@ -199,10 +199,8 @@ figcaption {
 
 /* TWO COLUMN FLEXBOX */
 .two-column {
-  display:flex;
-  flex-direction:row;
+  -webkit-column-count: 2;
+     -moz-column-count: 2;
+          column-count: 2;
 }
-.two-column div {
-  flex:1;
-  border:1px solid blue;
-}
+
