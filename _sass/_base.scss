@@ -162,7 +162,7 @@ figcaption {
 }
 
 .post-date {
-  color: $striking-color;
+  color: $non-muted-text-color;
   display: block;
   font-size: .825em;
   font-size: 70%;
@@ -200,9 +200,9 @@ figcaption {
 
 /* TWO COLUMN FLEXBOX */
 .two-column {
-  -webkit-columns: 2 300px;
-     -moz-columns: 2 300px;
-          columns: 2 300px;
+  -webkit-columns: 2 400px;
+     -moz-columns: 2 400px;
+          columns: 2 400px;
   -webkit-column-gap: 1.6em;
      -moz-column-gap: 1.6em;
           column-gap: 1.6em;
