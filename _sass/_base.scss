@@ -199,8 +199,13 @@ figcaption {
 
 /* TWO COLUMN FLEXBOX */
 .two-column {
-  -webkit-column-count: 2;
-     -moz-column-count: 2;
-          column-count: 2;
+article {
+  -webkit-columns: 2 200px;
+     -moz-columns: 2 200px;
+          columns: 2 200px;
+  -webkit-column-gap: 4em;
+     -moz-column-gap: 4em;
+          column-gap: 4em;
+}
 }
 
