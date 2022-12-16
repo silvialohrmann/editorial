@@ -1,11 +1,7 @@
 ---
 title: "We Are Houses"
 category: Intro
-description: |
-  I am a multiple line
-  string value that can
-  go on and on.
-  layout: post
+layout: post
 ---
 <section class="two-column">
 <div>
