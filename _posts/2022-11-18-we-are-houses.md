@@ -4,7 +4,7 @@ category: Intro
 layout: post
 ---
 <section class="two-column">
-<div>
+
 At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span title="note added on 2022-11-20">a bit</span>[^2] like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
 
 “Take care,” she said.
@@ -100,8 +100,8 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 [^1]: "in / at / on the corner," WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/
 [^2]: "What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?'," English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad
 [^3]: "Prepositions of Time - at, in, on," Grammar, English Club, accessed November 21, 2022, https://www.englishclub.com/grammar/prepositions-at-in-on-time.htm
-</div>
 
-<div>Spanish version</div>
+
+Spanish version
 
 </section>
