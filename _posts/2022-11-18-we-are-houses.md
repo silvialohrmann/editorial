@@ -3,7 +3,6 @@ title: "We Are Houses"
 category: Intro
 layout: post
 ---
-<section class="two-column">
 
 At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span title="note added on 2022-11-20">a bit</span>[^2] like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
 
@@ -95,7 +94,6 @@ Going to the world is dying. That is why our projections must be highly speciali
 I dream I’m in a large room shaped like an amphitheater. They are explaining how things work on Earth and give us tips on how to achieve any goal there. 
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
-</section>
 
 <h5>Notes</h5>
 [^1]: "in / at / on the corner," WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/
