@@ -199,15 +199,17 @@ figcaption {
 
 /* TWO COLUMN FLEXBOX */
 .two-column {
+        @media (max-width: $on-desktop) {
+    font-size:57%;
+  }
+}
+.two-column {
   -webkit-columns: 2 350px;
      -moz-columns: 2 350px;
           columns: 2 350px;
   -webkit-column-gap: 1.8em;
      -moz-column-gap: 1.8em;
           column-gap: 1.8em;
-        @media (max-width: $on-desktop) {
-    font-size:57%;
-  }
 }
 .two-column h1 {
   font-size: 2em;
