@@ -198,7 +198,7 @@ figcaption {
 }
 
 /* TWO COLUMN FLEXBOX */
-  @media (max-width: $on-desktop) {
+
     .two-column {
   -webkit-columns: 2 250px;
      -moz-columns: 2 250px;
@@ -207,7 +207,6 @@ figcaption {
      -moz-column-gap: 1.8em;
           column-gap: 1.8em;
             font-size: 50%;
-  }
 }
 .two-column h1 {
   font-size: 2em;
