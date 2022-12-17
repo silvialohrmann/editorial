@@ -205,4 +205,11 @@ figcaption {
   -webkit-column-gap: 1.8em;
      -moz-column-gap: 1.8em;
           column-gap: 1.8em;
+  @media (max-width: $on-desktop) {
+      font-size: .50%;
+}
+  }
+.two-column h1 {
+  font-size: 2em;
+  text-align:center;
 }
