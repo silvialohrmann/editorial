@@ -7,9 +7,8 @@ body {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
   margin: .5em auto;
-  text-align:center;
 }
 
 h2 {
@@ -206,5 +205,11 @@ figcaption {
   -webkit-column-gap: 1.8em;
      -moz-column-gap: 1.8em;
           column-gap: 1.8em;
-  font-size:90%;
+        @media (max-width: $on-bigphone) {
+    font-size:90%;
+  }
+}
+.two-column h1 {
+  font-size: 2em;
+  text-align:center;
 }
