@@ -205,7 +205,7 @@ figcaption {
   -webkit-column-gap: 1.8em;
      -moz-column-gap: 1.8em;
           column-gap: 1.8em;
-        @media (max-width: $on-desktop), @media (max-width: $on-laptop), @media (max-width: $on-tablet) {
+        @media (max-width: $on-desktop) {
     font-size:57%;
   }
 }
