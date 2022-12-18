@@ -1,5 +1,5 @@
 ---
-title:""
+title: ""
 category: Microstories
 layout: post
 ---
