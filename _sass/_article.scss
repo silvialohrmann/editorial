@@ -4,7 +4,7 @@
   max-width: 60rem;
   padding: 2em 0;
   box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
-      @media (min-width: $on-desktop), @media (min-width: $on-laptop), @media (min-width: $on-tablet) {
+      @media (min-width: $on-desktop), @media (min-width: $on-laptop) {
   padding: 4em 0;
   }
 }
