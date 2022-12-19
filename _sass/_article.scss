@@ -17,8 +17,10 @@
 }
  }
     @media (max-width: $on-tablet) {
-     padding-bottom: 0;
+     #main > div.two-column > h1 {
+       padding-bottom: 0;
   }
+        }
 .post > * {
   margin-left: auto;
   margin-right: auto;
