@@ -16,6 +16,9 @@
   margin-top:0;
 }
  }
+    @media (max-width: $on-tablet) {
+     padding-bottom: 0;
+  }
 .post > * {
   margin-left: auto;
   margin-right: auto;
