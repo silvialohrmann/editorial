@@ -135,7 +135,7 @@ figcaption {
 
 .divided-post::after {
   content: "";
-  @include divider-post;
+  @include divider;
 }
 
 .home {
