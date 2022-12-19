@@ -25,14 +25,9 @@
 .post > h1 {
   font-size: 1.7em;
   max-width: 48rem;
-  padding: 0 1em 1em 1em;
+  padding: 0 1em;
   text-align: center;
 }
-@media (max-width: $on-tablet) {
-  #main > div.two-column > h1 {
-     padding-bottom: 0;
-}
- }
 .post p {
   text-align: justify;
   text-indent: 1.5em;
