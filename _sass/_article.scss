@@ -22,8 +22,11 @@
 }
 @media (min-width: $on-tablet) {
   .post { 
-     padding: 44em 0;
+     padding: 4em 0;
   }
+  .post > h1 {
+  padding-bottom: 4em;
+}
  }
 .post p {
   text-align: justify;
