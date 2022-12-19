@@ -10,13 +10,13 @@ layout: default
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
- <div class="two-column"> 
+
   {% if page.title != "" %}
     <h1 class="post-title divided-post p-name" itemprop="name headline">
       {{ page.title }}
     </h1>
   {% endif %}
- 
+  <div class="two-column"> 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
