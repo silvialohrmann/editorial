@@ -212,8 +212,8 @@ figcaption {
 .two-column h1 {
   text-align:center;
 }
-      @media (min-width: $on-laptop) {
+      @media (min-width: $on-tablet) {
 .spanish {
-  letter-spacing: -.2em;
+  letter-spacing: -.05em;
 }
   }
