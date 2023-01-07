@@ -30,7 +30,7 @@
 }
  }
 .post p {
-  font-family: PT Sans, sans-serif;
+  font-family: 'PT Sans', sans-serif;
   text-align: justify;
   text-indent: 1.5em;
   text-justify: inter-character;
@@ -51,8 +51,8 @@
 }
 
 @media (min-width: $on-tablet) {
-  .spanish {
-   font-family: PT Sans Narrow, sans-serif;
+  .spanish p {
+   font-family: 'PT Sans Narrow', sans-serif;
 }
   }
 
