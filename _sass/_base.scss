@@ -214,7 +214,7 @@ figcaption {
 }
       @media (min-width: $on-tablet) {
 .spanish {
-  letter-spacing: -.05em;
-  text-align: justify;
+  font-family: sans-serif, PT Sans;
+  font-size: 98%;
 }
   }
