@@ -91,9 +91,9 @@ Going to the world is dying. That is why our projections must be highly speciali
 I dream I’m in a large room shaped like an amphitheater. They are explaining how things work on Earth and give us tips on how to achieve any goal there. 
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr>
 
+<hr>
+<div class="spanish">
 Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.
 
 —Cuidate —me dijo.
@@ -179,3 +179,4 @@ Ir al mundo es morir. Es por eso que nuestras proyecciones deben ser altamente e
 Sueño que estoy en una sala grande con forma de anfiteatro. Están explicando cómo son las cosas en la Tierra y nos dan consejos sobre cómo lograr cualquier meta ahí. 
 
 Al despertar, me cuesta enfrentarme con lo cotidiano, el contraste me resulta casi insoportable. Por suerte, charlar con Itna todo el camino a la escuela me ayuda a entrar al mundo despacito. 
+</div>
