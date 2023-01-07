@@ -6,3 +6,84 @@
   font-display: auto;
   src: url('#{$asset_url}/fonts/PTSerif-Regular.ttf') format('truetype');
 }
+
+/* PTSerif-Italic */
+@font-face {
+  font-family: 'PT Serif-Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSerif-Italic.ttf') format('truetype');
+}
+
+/* PTSerif-Bold */
+@font-face {
+  font-family: 'PT Serif-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSerif-Bold.ttf') format('truetype');
+}
+
+/* PTSerif-BoldItalic */
+@font-face {
+  font-family: 'PT Serif-BoldItalic';
+  font-style: italic;
+  font-weight: 700;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSerif-BoldItalic.ttf') format('truetype');
+}
+
+/* PTSans-Regular */
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSans-Regular.ttf') format('truetype');
+}
+
+/* PTSans-Italic */
+@font-face {
+  font-family: 'PT Sans-Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSans-Italic.ttf') format('truetype');
+}
+
+/* PTSans-Bold */
+@font-face {
+  font-family: 'PTSans-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSans-Bold.ttf') format('truetype');
+}
+
+/* PTSans-BoldItalic */
+@font-face {
+  font-family: 'PTSans-BoldItalic';
+  font-style: italic;
+  font-weight: 700;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSans-BoldItalic.ttf') format('truetype');
+}
+
+/* PTSansNarrow-Regular */
+@font-face {
+  font-family: 'PT SansNarrow-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSansNarrow-Regular.ttf') format('truetype');
+}
+
+/* PTSansNarrow-Bold */
+@font-face {
+  font-family: 'PT SansNarrow-Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/PTSansNarrow-Bold.ttf') format('truetype');
+}
