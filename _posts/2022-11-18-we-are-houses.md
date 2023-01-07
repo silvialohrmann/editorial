@@ -94,13 +94,13 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 
 <hr>
 <div class="spanish">
-Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.
+<p>Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.</p>
 
-—Cuidate —me dijo.
+<p>—Cuidate —me dijo.</p>
 
-—El sábado a las ocho. ¿En esta misma esquina?
+<p>—El sábado a las ocho. ¿En esta misma esquina?</p>
 
-Pero no. Ese día esperé y esperé.
+<p>Pero no. Ese día esperé y esperé.</p>
 
 ¿Habrá estado esperando ella también… desilusionada, dudando de mi existencia? Volví a casa muy tarde esa noche. Cuando finalmente logré conciliar el sueño, algo mágico pasó: Aunque las calles que se cruzaban tuvieran nombres que nunca había escuchado, aunque la ciudad pareciera menos sólida, el encuentro finalmente tuvo lugar.
 
