@@ -4,7 +4,7 @@ category: Intro
 layout: post
 ---
 
-At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span title="note added on 2022-11-20">a bit</span>[^2](## "in / at / on the corner," WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/) like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
+At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span title="note added on 2022-11-20">a bit</span>[^2](## "in / at / on the corner, WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/") like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
 
 “Take care,” she said.
 “Saturday <span title="note added on 2022-11-21">at</span>[^3] eight. <del title="edited on 2022-11-19">In</del><ins>At</ins>[^1] this same corner?” 
