@@ -4,10 +4,10 @@ category: Intro
 layout: post
 ---
 
-At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span title="">a bit</span>[^2] like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
+At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span style="text-decoration: underline;" title="*What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?',* English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad">a bit</span> like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
 
 “Take care,” she said.
-“Saturday <span title="note added on 2022-11-21">at</span>[^3] eight. <del>In</del><ins title="'in / at / on the corner', WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/">At</ins>[^1] this same corner?” 
+“Saturday <span style="text-decoration: underline;" title="*Prepositions of Time - at, in, on,* Grammar, English Club, accessed November 21, 2022, https://www.englishclub.com/grammar/prepositions-at-in-on-time.htm">at</span> eight. <del>In</del><ins title="*in / at / on the corner*, WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/">At</ins> this same corner?” 
 But no. I waited and waited. <ins>Had she also been waiting… disappointed, doubting my existence?</ins>
 
 <del title="edited on 2022-11-19">Had she also been waiting… disappointed, doubting my existence?</del>I returned home very late that night. When I finally managed to fall asleep, something magical happened: Even though the intersecting streets had names I had never heard of, even though the city seemed less solid, the meeting finally took place.
@@ -89,9 +89,6 @@ Going to the world is dying. That is why our projections must be highly speciali
 I dream I’m in a large room shaped like an amphitheater. They are explaining how things work on Earth and give us tips on how to achieve any goal there. 
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
-
-[^2]: "What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?'," English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad
-[^3]: "Prepositions of Time - at, in, on," Grammar, English Club, accessed November 21, 2022, https://www.englishclub.com/grammar/prepositions-at-in-on-time.htm
 
 <hr>
 
