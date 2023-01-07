@@ -7,7 +7,9 @@ layout: post
 At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span style="text-decoration: underline;" title="*What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?',* English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad">a bit</span> like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
 
 “Take care,” she said.
+
 “Saturday <span style="text-decoration: underline;" title="*Prepositions of Time - at, in, on,* Grammar, English Club, accessed November 21, 2022, https://www.englishclub.com/grammar/prepositions-at-in-on-time.htm">at</span> eight. <del>In</del><ins title="*in / at / on the corner*, WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/">At</ins> this same corner?” 
+
 But no. I waited and waited. <ins>Had she also been waiting… disappointed, doubting my existence?</ins>
 
 <del title="edited on 2022-11-19">Had she also been waiting… disappointed, doubting my existence?</del>I returned home very late that night. When I finally managed to fall asleep, something magical happened: Even though the intersecting streets had names I had never heard of, even though the city seemed less solid, the meeting finally took place.
@@ -89,13 +91,15 @@ Going to the world is dying. That is why our projections must be highly speciali
 I dream I’m in a large room shaped like an amphitheater. They are explaining how things work on Earth and give us tips on how to achieve any goal there. 
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr>
 
 Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.
 
 —Cuidate —me dijo.
-— El sábado a las ocho. ¿En esta misma esquina?
+
+—El sábado a las ocho. ¿En esta misma esquina?
+
 Pero no. Ese día esperé y esperé.
 
 ¿Habrá estado esperando ella también… desilusionada, dudando de mi existencia? Volví a casa muy tarde esa noche. Cuando finalmente logré conciliar el sueño, algo mágico pasó: Aunque las calles que se cruzaban tuvieran nombres que nunca había escuchado, aunque la ciudad pareciera menos sólida, el encuentro finalmente tuvo lugar.
