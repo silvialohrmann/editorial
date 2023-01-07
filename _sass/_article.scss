@@ -48,12 +48,13 @@
     text-align: left;
     font-size:120%;
   }
-        @media (min-width: $on-tablet) {
-.spanish {
-  font-family: PT Sans Narrow, sans-serif;
+}
+
+@media (min-width: $on-tablet) {
+  .spanish {
+   font-family: PT Sans Narrow, sans-serif;
 }
   }
-}
 
 .post p:first-of-type,
 .post h2 + p, .post hr + p, .break + p {
