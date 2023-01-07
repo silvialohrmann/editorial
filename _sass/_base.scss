@@ -212,3 +212,8 @@ figcaption {
 .two-column h1 {
   text-align:center;
 }
+      @media (min-width: $on-laptop) {
+.spanish {
+  letter-spacing: -.2em;
+}
+  }
