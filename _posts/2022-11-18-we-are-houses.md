@@ -99,3 +99,63 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 [^1]: "in / at / on the corner," WordReference.com Language Forums, accessed November 19, 2022, https://forum.word&#173;reference.com/threads/in-at-on-the-corner.348930/
 [^2]: "What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?'," English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad
 [^3]: "Prepositions of Time - at, in, on," Grammar, English Club, accessed November 21, 2022, https://www.englishclub.com/grammar/prepositions-at-in-on-time.htm
+<hr class="divided-post">
+Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.
+—Cuidate —me dijo.
+— El sábado a las ocho. ¿En esta misma esquina? Pero no. Ese día esperé y esperé.
+¿Habrá estado esperando ella también… desilusionada, dudando de mi existencia? Volví a casa muy tarde esa noche. Cuando finalmente logré conciliar el sueño, algo mágico pasó: Aunque las calles que se cruzaban tuvieran nombres que nunca había escuchado, aunque la ciudad pareciera menos sólida, el encuentro finalmente tuvo lugar.
+Recordamos nuestro primer encuentro, tal como yo lo recuerdo ahora, y varias experiencias compartidas en escenarios que no logro ubicar. Al despertar, busqué con qué anotar: “No soy lo que vos pensás”, había dicho. No sos lo que vos pensás, escribí. El fallido me hizo reflexionar. Quizás éramos la misma de una manera que no terminaba de entender.
+
+
+Somos dos, en todas partes. Esto construye una dinámica que evita el estancamiento. Cuando nos separamos, siempre nos recordamos. Pero nuestros lazos quedan tapados por el cuerpo emocional al sumergirnos en sitios como la Tierra a través de los seres que proyectamos.
+Un estado de beatitud prevalece, el sentirnos uno y dos a la vez. Así, juntos, nos relacionamos con otros que se constituyen de la misma manera (de a pares), y formamos grupos que interactúan a través del mismo flujo subyacente. La sustancia es una y constante a través del universo, y los universos se comunican a través de ella también.
+La zona de libertad de decisión fue diseñada con el propósito de la expansión ilimitada y abarcaba la creación de planetas y densidades. La fase más importante —y más difícil de llevar a cabo— fue y es la capa física de la Tierra. Estuvo abierta a la experimentación para que seres de distintos niveles energéticos pudieran dejar su huella. Pasado un tiempo prudencial, tuvimos que preservar la zona de un daño irreversible que habría llevado a la no compleción del experimento.
+Tuvimos que poner un filtro en la única puerta, que no es ni física ni energética, sino un pensamiento de la mente universal. A través de ella puede ahora accederse o no dependiendo de las condiciones particulares de cada entidad.
+Desde la Tierra, una proyección en particular logra sintonizarme a veces. Cuando eso sucede, me da una especie de calor y siento la necesidad de acercarme, y no sé cómo, pero me prendo y apago, siendo ella y yo alternativamente. 
+En su mente (la verdadera) y en todos sus cuerpos (casas dentro de casas), ella acumula experiencia, el resultado de lo que ustedes llaman prueba y error, y nosotros llamamos vida. Para ustedes, vida es todo hasta que mueren. Como no estamos ni vivos ni muertos, podemos llamar vida a algo externo a nosotros y tratarlo como un mecanismo.
+Mi necesidad de acercármele fue creciendo. Eso lo cambió todo: Antes nunca hubiese desobedecido la negativa que recibí cuando solicité una extensión de los permisos. Ahora me doy cuenta de que me dejaron llevar a cabo este experimento aunque no pudieran alentarme abiertamente.
+Por meses vivió en las nubes, y sus pies comenzaron a mostrar la evidencia física. Para mí era más que positivo, ya que me llegaban sensaciones de experiencias terrestres traducidas a código universal. Luego se convirtió en un hecho masivo. Empezamos a ser bombardeados por pensamientos de todo tipo. No alcanzó el momento presente para analizar, sintetizar y archivar tanto dato, y tuvimos que desdoblar la experiencia permanente en compartimientos hacia atrás y hacia adelante.
+Los archivos ocupaban tanto lugar que nuestra casa debió duplicarse y superponerse a sí misma. No pudimos detener el proceso y tuvimos que duplicarnos también, tanto para velar por los datos guardados, como para no deshabitar el lugar. Cada casa necesita ser ocupada, ya que cualquiera puede acceder si se encuentra deshabitada, receptiva.
+Sé que parece imposible que existan problemas de espacio en el estado en el que nos encontramos, pero deben recordar que cuanta más interacción mantenemos con nuestras proyecciones, más nos acercamos a su instancia existencial. Todo se produce a través de un mecanismo autogenerativo del cual no es necesario saber los pormenores. 
+En resumen: Los lugares vacíos atraen hacia sí entidades con las que puedan interactuar. Al hablar de lugares o casas no estamos refiriéndonos a cosas, sino a seres, las cosas solo existen en la densidad más baja.
+Nuestra casa no tiene forma definida, es solo un pensamiento. La habitamos con nuestra intención.
+
+
+Me sorprende no estar pensando en matarme. Me siento tan mal… Soy un tumor operándose.
+Soñé con Itna anoche, con la ola gigante, otra vez. Era un miedo tranquilo, el de morir. Lo que en realidad me asustaba era no volver a verlo.
+
+
+A través de los sueños se puede acceder a otras vidas. Estas vidas, que creemos pasadas, en realidad ocurren simultáneamente. Este es un concepto difícil para alguien que se despliega en la linealidad temporal, pero es importante adoptarlo, ya que la permeabilidad que existe entre sucesos de diferentes bucles de experiencia explica el desarrollo de la evolución.
+Reconocer el propósito es primordial. Se les presenta a lo largo de su estadía disfrazado de otras cosas, aunque es casi imposible no saber que un hilo lo une todo, que una flecha apunta hacia un fin, nos traspasa a todos y cada uno, y nos lleva hacia algún lugar. 
+Buscamos expandir nuestra energía y, es verdad, existe el riesgo del olvido, pero sin ese peligro, que es cierto y relativo a la vez, el juego se detendría. En definitiva, es la casa lo que nos mantiene unidos. Aun al separarnos, mi compañero va siempre conmigo.
+Desde acá podemos apreciar cómo se desarrolla en ustedes la habitabilidad de las casas.  Vemos que cualquiera puede ser casa y habitante al mismo tiempo, y que uno no puede ocupar su propio ser-casa (es casi como la ley del incesto a nivel cósmico). Podemos observar el sistema con claridad en la relación que mi proyección tiene con Atfa, quien es el lugar en el que sus amigos y familia habitan, y a quien ella, a su vez, ofrece refugio. Itna, es casa para ambos.
+Podemos ver que, como niño, Itna está en contacto con información vedada a los adultos, y que ese saber es un no conocimiento, una apertura a no categorizar. De todas formas, el margen de tiempo de inmunidad a los estereotipos desde que una persona nace hasta que se estupidiza se está acortando peligrosamente.
+
+
+Quizás es verdad. Quizás existe un propósito después de todo. Quizás vale la pena vivir (y morir). 
+Me levanto para llevar a Itna al colegio. Caminamos despacio, en silencio, y recuerdo mi sueño vagamente, pero igualmente siento un profundo dolor.
+Existen múltiples seres entre mi compañero y yo. Emergen de cada uno de nosotros de a pares, y llevan nuestra esencia. Cada par se separa y se reúne luego en mundos de distintas densidades. El juego en sí no tiene que ver con encontrarnos a través de nuestras proyecciones, aunque esto se da con frecuencia. Sabemos que es un efecto de la expansión y tratamos de sacar provecho de ello. Es como un juego secundario que genera más energía. 
+Algunas de nuestras proyecciones entran al mundo con mucha intensidad, dedicándose a actuar físicamente de una manera práctica para ayudar a los que accedieron a formar parte de la masa final. 
+Cuando los efectos de la negatividad generada no pudieron revertirse a tiempo, muchos decidieron actuar de esa misma manera. Tenemos que recalcar que no es la única ni la mejor: Hacer lo contrario es igual de procedente y tiene sus beneficios en pos del mantenimiento del balance y el movimiento. 
+Nos dimos cuenta de que los lazos familiares interfieren en la sana relación de nuestras proyecciones. Que el amor se tergiversa y se diluye en las materialidades de las que están compuestas sus demostraciones. El amor en sí es el fluir de la sustancia —aquella que transmite información y es el medio que aglutina todos los componentes del universo— a través de las entidades. En la Tierra, lo material (la energía solidificada) succiona hacia sí lo no material (información transmitida por la energía de alta vibración).
+
+
+La inercia hace que la vida me lleve a mí. Quisiera desaparecer. Me agotan las discusiones, la estupidez, no solo de otros, la mía. Me cansa ser estúpida. Me cansa ser.
+¿Cómo aprender a morir y renacer sin intentar escapar siempre, sin perder el tiempo en buscar puertas que no existen (o que están tan a la vista que es como si no existieran: el cielo como puerta, o el mar)?
+Me queda tan poca energía que pienso que la muerte puede parecerse a esto. Un permiso para no hacer… como si hiciera falta uno. Me hago la muerta unos días y recupero fuerza, me enfermo y me quedo en la cama a dormir, a soñar, a visitar otras vidas, más tiernas o más tenebrosas, distintas, sin cosas fijas: sin hijo, sin marido, sin escuela, sin trabajo, sin padre, sin madre, sin tren, sin colectivo, sin platos… sin yo. Sin yo, porque varío. Descanso de mí misma, salto de sueño en sueño y las cosas no se me pegan. Todo se queda en el sueño que soñé que soñaba.
+Enciendo la luz para ir al baño y me doy cuenta de que todo es raro, de que las cosas ya no tienen borde definido, de que unos puntitos luminosos bailan. Que todo está hecho de lo mismo, dibujado sobre una única malla. Hago pis y me vuelvo a acostar. Miento: Primero espío a Itna, que brilla (literalmente). 
+Si me muero, ¿me preocupará haber dejado a la gente que quiero acá? ¿O será como despertar a otra vida y creer que la anterior fue inventada, no real? Cuando despierto, ¿qué pasa con aquellos que abandono en el sueño? Versiones y versiones de gente que se repite, de hijos, de amigos, de parientes que cambian de roles de una historia a otra. ¿Cómo llevar la cuenta, cómo saber quién es más verdadero?
+Mi vida comienza a estar controlada por mi actividad nocturna, en la que todo se adapta a mí, en la que siento la vida mucho más íntimamente. Es como si mi espíritu entrara en mí, como si me agrandara. Hago lugar para que se acomode y pueda sentirlo todo. 
+
+
+La interhabitabilidad les permite vivir cobijados por otros seres. Esto no significa que tengan que alimentarse de la energía disponible en los seres que los alojan, aunque pasa mucho. El sistema en sí es un regalo a través del cual aquellos involucrados pueden, eventualmente, acceder más fácilmente a nosotros. Hablamos de los involucrados porque existe la posibilidad de no ser parte del juego de las casas aun siendo parte del juego en la Tierra. Ustedes no se acuerdan de eso.
+El olvido es la columna vertebral de nuestro proyecto. (Con nuestro queremos decir de ustedes y de nosotros.) Todo se organiza alrededor de él. 
+Ir al mundo es morir. Es por eso que nuestras proyecciones deben ser altamente especializadas para resonar con el campo de la Tierra. No todas las porciones que el alma proyecta tienen esa capacidad, por eso se planean viajes a otros lugares primero, un recorrido por planetas y dimensiones que las preparan mejor. 
+— ¿Por qué me despertaste?… ¿Me pasás las aspirinas? Se me parte la cabeza.
+—Para que tomes la aspirina, por eso te desperté —contesta Atfa. Tiene la loca idea de que puede leer la mente.
+—Mientras estaba dormida no me daba cuenta de que me dolía.
+—¿Un mate?
+—No, gracias. Prefiero seguir durmiendo.
+
+Sueño que estoy en una sala grande con forma de anfiteatro. Están explicando cómo son las cosas en la Tierra y nos dan consejos sobre cómo lograr cualquier meta ahí. 
+Al despertar, me cuesta enfrentarme con lo cotidiano, el contraste me resulta casi insoportable. Por suerte, charlar con Itna todo el camino a la escuela me ayuda a entrar al mundo despacito. 
