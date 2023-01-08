@@ -50,10 +50,14 @@
   }
 }
 
-  .spanish p {
-   font-family: 'PT Sans Narrow', sans-serif;
-   font-size: 106%;
-   letter-spacing: .015em;
+.first-sentence {
+  text-transform: uppercase;
+}
+
+.spanish p {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 106%;
+  letter-spacing: .015em;
 }
 
 .next {flex-basis: 100%;}
