@@ -52,19 +52,16 @@
 
 .first-sentence, #main > ul > li:nth-child(2) > a > div > h1 {
   font-variant: small-caps;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 115%;
+  font-family: 'PT Serif', serif;
   letter-spacing: .015em;
   font-weight: 700;
 }
 
 .spanish p {
-  font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 107%;
+  font-family: 'PT Serif', serif;
+  font-size: 98%;
   letter-spacing: .015em;
 }
-
-.next {flex-basis: 100%;}
 
 .post p:first-of-type,
 .post h2 + p, .post hr + p, .break + p {
