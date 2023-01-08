@@ -96,7 +96,6 @@ I dream I’m in a large room shaped like an amphitheater. They are explaining h
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
 
-<hr>
 <div class="spanish">
 <p>Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.</p>
 
@@ -179,7 +178,7 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 <p>—Mientras estaba dormida no me daba cuenta de que me dolía.</p>
 <p>—¿Un mate?</p>
 <p>—No, gracias. Prefiero seguir durmiendo.</p>
-<br/><br/><br/>
+<br/>
 <p>Sueño que estoy en una sala grande con forma de anfiteatro. Están explicando cómo son las cosas en la Tierra y nos dan consejos sobre cómo lograr cualquier meta ahí.</p> 
 
 <p>Al despertar, me cuesta enfrentarme con lo cotidiano, el contraste me resulta casi insoportable. Por suerte, charlar con Itna todo el camino a la escuela me ayuda a entrar al mundo despacito.</p> 
