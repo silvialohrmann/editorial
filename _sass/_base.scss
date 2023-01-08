@@ -107,6 +107,11 @@ hr {
   height: 0;
   @include divider-intertext;
   margin: 1em auto;
+  opacity:.5;
+}
+
+hr.column {
+  opacity:1;
 }
 
 img {
