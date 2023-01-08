@@ -96,6 +96,7 @@ I dream I’m in a large room shaped like an amphitheater. They are explaining h
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
 
+<div class="next"></div>
 <div class="spanish">
 <p>Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.</p>
 
