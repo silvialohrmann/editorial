@@ -52,6 +52,10 @@
 
 .first-sentence, #main > ul > li:nth-child(2) > a > div > h1 {
   font-variant: small-caps;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 115%;
+  letter-spacing: .015em;
+  font-weight: 700;
 }
 
 .spanish p {
