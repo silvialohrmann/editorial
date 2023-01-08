@@ -4,7 +4,7 @@ category: Intro
 layout: post
 ---
 
-At first I was amused, but then I felt fear, fear of never ever not knowing again. She looked <span style="text-decoration: underline;" title="*What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?',* English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad">a bit</span> like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
+<span class="first-sentence">At first I was amused, but then I felt fear, fear of never ever not knowing again.</span> She looked <span style="text-decoration: underline;" title="*What is difference between 'a tad,' 'a bit,' 'a little?' Why do you use 'a tad?',* English Language & Usage Stack Exchange, accessed November 20, 2022, https://english.stackexchange.com/questions/18849/what-is-difference-between-a-tad-a-bit-a-little-why-do-you-use-a-tad">a bit</span> like me, or an older version of me. But I began to imagine that perhaps it was me who looked like her, who could alter events, who could play in this reality as a magician or <ins title="edited on 2022-11-20">a</ins> witch. 
 
 “Take care,” she said.
 
@@ -96,9 +96,9 @@ I dream I’m in a large room shaped like an amphitheater. They are explaining h
 
 Upon waking, I find everyday life very hard to face, the contrast is almost unbearable to me. Luckily, chatting with Itna all the way to school helps me enter the world slowly.
 
-<div class="next"></div>
+<br/>
 <div class="spanish">
-<p>Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber. Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.</p>
+<p><span class="first-sentence">Al principio me hizo gracia, pero después sentí miedo, miedo de nunca más volver a no saber.</span> Se parecía un poco a mí, o a una versión entrada en años de mí. Pero me puse a imaginar que quizás era yo la que me parecía a ella, la que podía alterar acontecimientos, jugar en esta realidad como maga o bruja.</p>
 
 <p>—Cuidate —me dijo.</p>
 
