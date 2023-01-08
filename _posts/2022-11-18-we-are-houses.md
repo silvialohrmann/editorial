@@ -104,9 +104,9 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 
 <p>—El sábado a las ocho. ¿En esta misma esquina?</p>
 
-<p>Pero no. Ese día esperé y esperé.</p>
+<p>Pero no. Ese día esperé y esperé. <ins title="edited on 2023-01-08">¿Habrá estado esperando ella también… desilusionada, dudando de mi existencia?</ins></p>
 
-<p>¿Habrá estado esperando ella también… desilusionada, dudando de mi existencia? Volví a casa muy tarde esa noche. Cuando finalmente logré conciliar el sueño, algo mágico pasó: Aunque las calles que se cruzaban tuvieran nombres que nunca había escuchado, aunque la ciudad pareciera menos sólida, el encuentro finalmente tuvo lugar.</p>
+<p><del title="edited on 2023-01-08">¿Habrá estado esperando ella también… desilusionada, dudando de mi existencia?</del>Volví a casa muy tarde esa noche. Cuando finalmente logré conciliar el sueño, algo mágico pasó: Aunque las calles que se cruzaban tuvieran nombres que nunca había escuchado, aunque la ciudad pareciera menos sólida, el encuentro finalmente tuvo lugar.</p>
 
 <p>Recordamos nuestro primer encuentro, tal como yo lo recuerdo ahora, y varias experiencias compartidas en escenarios que no logro ubicar. Al despertar, busqué con qué anotar: “No soy lo que vos pensás”, había dicho. No sos lo que vos pensás, escribí. El fallido me hizo reflexionar. Quizás éramos la misma de una manera que no terminaba de entender.</p>
 <hr>
