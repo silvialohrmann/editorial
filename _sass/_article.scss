@@ -47,6 +47,7 @@
     @media (max-width: $on-bigphone) {
     text-align: left;
     font-size:120%;
+  line-height: 25px;
   }
 }
 
@@ -60,7 +61,8 @@
 .spanish p {
   font-family: 'PT Serif', serif;
   font-size: 98%;
-  letter-spacing: .015em;
+  letter-spacing: -.02em;
+  line-height: 25px;
 }
 
 .post p:first-of-type,
