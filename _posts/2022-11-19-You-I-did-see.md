@@ -4,7 +4,7 @@ category: Microstories
 layout: post
 ---
 
-You I did see: plaid pants, black hat, black long coat. The staircase was narrow, steep and made of cement. Covered with dirt. Why I liked the ladder (that way, dirty and sad): because I knew of your other lives.
+<span class="first-sentence">You I did see</span>: plaid pants, black hat, black long coat. The staircase was narrow, steep and made of cement. Covered with dirt. Why I liked the ladder (that way, dirty and sad): because I knew of your other lives.
 
 I knew one in which you were not poor, in which you could have taken me to a better place. Unfortunately for me, in that other life you didn't know me.
 
