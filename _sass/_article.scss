@@ -64,7 +64,7 @@
     line-height: 25.33333px;
       @media (max-width: $on-bigphone) {
     font-size:120%;
-    letter-spacing: 0;
+    letter-spacing: .01em;
   }
 }
 
