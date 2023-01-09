@@ -47,7 +47,6 @@
     @media (max-width: $on-bigphone) {
     text-align: left;
     font-size:120%;
-  line-height: 25px;
   }
 }
 
@@ -63,6 +62,10 @@
     font-size: 97.5%;
     letter-spacing: -.03em;
     line-height: 25.33333px;
+      @media (max-width: $on-bigphone) {
+    font-size:120%;
+    letter-spacing: 0;
+  }
 }
 
 .post p:first-of-type,
