@@ -112,9 +112,9 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 <hr>
 <p>Somos dos, en todas partes. Esto construye una dinámica que evita el estancamiento. Cuando nos separamos, siempre nos recordamos. Pero nuestros lazos quedan tapados por el cuerpo emocional al sumergirnos en sitios como la Tierra a través de los seres que proyectamos.</p>
 
-<p style="letter-spacing:.01em;">Un estado de beatitud prevalece, el sentirnos uno y dos a la vez. Así, juntos, nos relacionamos con otros que se constituyen de la misma manera (de a pares), y formamos grupos que interactúan a través del mismo flujo subyacente. La sustancia es una y constante a través del universo, y los universos se comunican a través de ella también.</p>
+<p>Un estado de beatitud prevalece, el sentirnos uno y dos a la vez. Así, juntos, nos relacionamos con otros que se constituyen de la misma manera (de a pares), y formamos grupos que interactúan a través del mismo flujo subyacente. La sustancia es una y constante a través del universo, y los universos se comunican a través de ella también.</p>
 
-<p style="letter-spacing:.01em;">La zona de libertad de decisión fue diseñada con el propósito de la expansión ilimitada y abarcaba la creación de planetas y densidades. La fase más importante —y más difícil de llevar a cabo— fue y es la capa física de la Tierra. Estuvo abierta a la experimentación para que seres de distintos niveles energéticos pudieran dejar su huella. Pasado un tiempo prudencial, tuvimos que preservar la zona de un daño irreversible que habría llevado a la no compleción del experimento.</p>
+<p>La zona de libertad de decisión fue diseñada con el propósito de la expansión ilimitada y abarcaba la creación de planetas y densidades. La fase más importante —y más difícil de llevar a cabo— fue y es la capa física de la Tierra. Estuvo abierta a la experimentación para que seres de distintos niveles energéticos pudieran dejar su huella. Pasado un tiempo prudencial, tuvimos que preservar la zona de un daño irreversible que habría llevado a la no compleción del experimento.</p>
 
 <p>Tuvimos que poner un filtro en la única puerta, que no es ni física ni energética, sino un pensamiento de la mente universal. A través de ella puede ahora accederse o no dependiendo de las condiciones particulares de cada entidad.</p>
 
@@ -122,7 +122,7 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 
 <p>En su mente (la verdadera) y en todos sus cuerpos (casas dentro de casas), ella acumula experiencia, el resultado de lo que ustedes llaman prueba y error, y nosotros llamamos vida. Para ustedes, vida es todo hasta que mueren. Como no estamos ni vivos ni muertos, podemos llamar vida a algo externo a nosotros y tratarlo como un mecanismo.</p>
 
-<p style="letter-spacing:.03em;">Mi necesidad de acercármele fue creciendo. Eso lo cambió todo: Antes nunca hubiese desobedecido la negativa que recibí cuando solicité una extensión de los permisos. Ahora me doy cuenta de que me dejaron llevar a cabo este experimento aunque no pudieran alentarme abiertamente.</p>
+<p>Mi necesidad de acercármele fue creciendo. Eso lo cambió todo: Antes nunca hubiese desobedecido la negativa que recibí cuando solicité una extensión de los permisos. Ahora me doy cuenta de que me dejaron llevar a cabo este experimento aunque no pudieran alentarme abiertamente.</p>
 
 <p>Por meses vivió en las nubes, y sus pies comenzaron a mostrar la evidencia física. Para mí era más que positivo, ya que me llegaban sensaciones de experiencias terrestres traducidas a código universal. Luego se convirtió en un hecho masivo. Empezamos a ser bombardeados por pensamientos de todo tipo. No alcanzó el momento presente para analizar, sintetizar y archivar tanto dato, y tuvimos que desdoblar la experiencia permanente en compartimientos hacia atrás y hacia adelante.</p>
 
@@ -150,7 +150,7 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 <hr>
 <p>Existen múltiples seres entre mi compañero y yo. Emergen de cada uno de nosotros de a pares, y llevan nuestra esencia. Cada par se separa y se reúne luego en mundos de distintas densidades. El juego en sí no tiene que ver con encontrarnos a través de nuestras proyecciones, aunque esto se da con frecuencia. Sabemos que es un efecto de la expansión y tratamos de sacar provecho de ello. Es como un juego secundario que genera más energía.</p> 
 
-<p style="letter-spacing:-.05em;">Algunas de nuestras proyecciones entran al mundo con mucha intensidad, dedicándose a actuar físicamente de una manera práctica para ayudar a los que accedieron a formar parte de la <em>masa final</em>.</p> 
+<p>Algunas de nuestras proyecciones entran al mundo con mucha intensidad, dedicándose a actuar físicamente de una manera práctica para ayudar a los que accedieron a formar parte de la <em>masa final</em>.</p> 
 
 <p>Cuando los efectos de la negatividad generada no pudieron revertirse a tiempo, muchos decidieron actuar de esa misma manera. Tenemos que recalcar que no es la única ni la mejor: Hacer lo contrario es igual de procedente y tiene sus beneficios en pos del mantenimiento del balance y el movimiento.</p> 
 
@@ -158,15 +158,15 @@ Upon waking, I find everyday life very hard to face, the contrast is almost unbe
 <hr>
 <p><em>La inercia hace que la vida me lleve a mí. Quisiera desaparecer. Me agotan las discusiones, la estupidez, no solo de otros, la mía. Me cansa ser estúpida. Me cansa ser.</em></p>
 
-<p style="letter-spacing:-.05em;"><em>¿Cómo aprender a morir y renacer sin intentar escapar siempre, sin perder el tiempo en buscar puertas que no existen (o que están tan a la vista que es como si no existieran: el cielo como puerta, o el mar)?</em></p>
+<p><em>¿Cómo aprender a morir y renacer sin intentar escapar siempre, sin perder el tiempo en buscar puertas que no existen (o que están tan a la vista que es como si no existieran: el cielo como puerta, o el mar)?</em></p>
 
-<p style="letter-spacing:-.05em;"><em>Me queda tan poca energía que pienso que la muerte puede parecerse a esto. Un permiso para no hacer… como si hiciera falta uno. Me hago la muerta unos días y recupero fuerza, me enfermo y me quedo en la cama a dormir, a soñar, a visitar otras vidas, más tiernas o más tenebrosas, distintas, sin cosas fijas: sin hijo, sin marido, sin escuela, sin trabajo, sin padre, sin madre, sin tren, sin colectivo, sin platos… sin yo. Sin yo, porque varío. Descanso de mí misma, salto de sueño en sueño y las cosas no se me pegan. Todo se queda en el sueño que soñé que soñaba.</em></p>
+<p><em>Me queda tan poca energía que pienso que la muerte puede parecerse a esto. Un permiso para no hacer… como si hiciera falta uno. Me hago la muerta unos días y recupero fuerza, me enfermo y me quedo en la cama a dormir, a soñar, a visitar otras vidas, más tiernas o más tenebrosas, distintas, sin cosas fijas: sin hijo, sin marido, sin escuela, sin trabajo, sin padre, sin madre, sin tren, sin colectivo, sin platos… sin yo. Sin yo, porque varío. Descanso de mí misma, salto de sueño en sueño y las cosas no se me pegan. Todo se queda en el sueño que soñé que soñaba.</em></p>
 
-<p style="letter-spacing:-.05em;"><em>Enciendo la luz para ir al baño y me doy cuenta de que todo es raro, de que las cosas ya no tienen borde definido, de que unos puntitos luminosos bailan. Que todo está hecho de lo mismo, dibujado sobre una única malla. Hago pis y me vuelvo a acostar. Miento: Primero espío a Itna, que brilla (literalmente).</em></p> 
+<p><em>Enciendo la luz para ir al baño y me doy cuenta de que todo es raro, de que las cosas ya no tienen borde definido, de que unos puntitos luminosos bailan. Que todo está hecho de lo mismo, dibujado sobre una única malla. Hago pis y me vuelvo a acostar. Miento: Primero espío a Itna, que brilla (literalmente).</em></p> 
 
-<p style="letter-spacing:-.05em;"><em>Si me muero, ¿me preocupará haber dejado a la gente que quiero acá? ¿O será como despertar a otra vida y creer que la anterior fue inventada, no real? Cuando despierto, ¿qué pasa con aquellos que abandono en el sueño? Versiones y versiones de gente que se repite, de hijos, de amigos, de parientes que cambian de roles de una historia a otra. ¿Cómo llevar la cuenta, cómo saber quién es más verdadero?</em></p>
+<p><em>Si me muero, ¿me preocupará haber dejado a la gente que quiero acá? ¿O será como despertar a otra vida y creer que la anterior fue inventada, no real? Cuando despierto, ¿qué pasa con aquellos que abandono en el sueño? Versiones y versiones de gente que se repite, de hijos, de amigos, de parientes que cambian de roles de una historia a otra. ¿Cómo llevar la cuenta, cómo saber quién es más verdadero?</em></p>
 
-<p style="letter-spacing:-.05em;"><em>Mi vida comienza a estar controlada por mi actividad nocturna, en la que todo se adapta a mí, en la que siento la vida mucho más íntimamente. Es como si mi espíritu entrara en mí, como si me agrandara. Hago lugar para que se acomode y pueda sentirlo todo.</em></p> 
+<p><em>Mi vida comienza a estar controlada por mi actividad nocturna, en la que todo se adapta a mí, en la que siento la vida mucho más íntimamente. Es como si mi espíritu entrara en mí, como si me agrandara. Hago lugar para que se acomode y pueda sentirlo todo.</em></p> 
 <hr>
 <p>La interhabitabilidad les permite vivir cobijados por otros seres. Esto no significa que tengan que alimentarse de la energía disponible en los seres que los alojan, aunque pasa mucho. El sistema en sí es un regalo a través del cual aquellos involucrados pueden, eventualmente, acceder más fácilmente a nosotros. Hablamos de los involucrados porque existe la posibilidad de no ser parte del juego de las casas aun siendo parte del juego en la Tierra. Ustedes no se acuerdan de eso.</p>
 
