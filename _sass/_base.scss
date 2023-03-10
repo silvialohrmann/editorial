@@ -6,6 +6,12 @@ body {
   line-height: 1.5;
 }
 
+html {
+  @media (max-width: $on-bigphone) {
+  font-size: 120%;
+  }
+   }
+
 h1 {
   font-size: 3em;
   margin: .5em auto;
