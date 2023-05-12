@@ -15,7 +15,7 @@ Then, at one point, and following my intuition, I decided to turn towards studyi
 
 Slow-paced, I had passed five out of twenty-four subjects before the pandemic. Then, due to home-office, I could dedicate myself to studying non-stop for almost two years. Today, I'm two subjects away from graduation.
 
-During quarantine, I also made the time to round up my writing of several years in three books. I had every intention of publishing them through Ingramspark, but chickened out and let them resting in the platform, a click away from reaching the world ☜(ˆ▽ˆ).
+During quarantine, I also made the time to round up my writing of several years in two books. I had every intention of publishing them through Ingramspark, but chickened out and let them resting in the platform, a click away from reaching the world ☜(ˆ▽ˆ).
 
 This year, I reread them and decided to publish them as they were. That's why I built this blog, to reedit the texts for a future second edition of each. The books are:
 <div style="margin:auto;">
@@ -26,10 +26,6 @@ This year, I reread them and decided to publish them as they were. That's why I 
  <div style="margin:50px auto; padding:25px; background: whitesmoke;" id="intro">
 <img style="margin:25px auto;" src="/assets/images/Intro%20-%20cover.jpg" alt="Intro" width="250">
 <p style="max-width:13em; color:#0b0404; margin:0 auto 25px; text-align: left;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Intro">Intro</a>, an introspective nar&shy;rative dealing with the relation universe-human.</p>
- </div>
- <div style="margin:50px auto; padding:25px; background: whitesmoke;" id="multiversal">
-<img style="margin:25px auto;" src="/assets/images/Multiversal%20-%20cover.jpg" alt="Multiversal" width="250">
-<p style="max-width:13em; color:#0b0404; margin:0 auto 25px; text-align: left;"><a style="color:#0b0404;" href="https://editorial.silvialohrmann.com/categories/#Multiversal">Multiversal</a>, a story told from the viewpoint of a fifteen-year-old girl who lives with her mother and friends in a strange city that cyclically suffers a total reconfiguration.</p>
  </div>
  </div>
  <p>In this blog, you'll also find a number of <a style="color:whitesmoke;" href="https://editorial.silvialohrmann.com/categories/#Microstories">microstories</a> I wrote between the years 2011 and 2016.</p> 
